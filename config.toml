@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
-languageCode = "en"
-title = "SICADE"
+languageCode = "fr"
+title = "Sicade"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -33,34 +33,35 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Products"
+  name = "Domaines d'intervention"
   URL = "products"
   weight = 1
 
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+  name = "Mieux nous connaitre"
+  URL = "mieux-nous-connaitre"
   weight = 2
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 3
-
+  
   [[menu.main]]
   name = "Contact"
   URL = "contact"
   weight = 4
 
+  
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Domaines d'intervention"
   URL = "products"
   weight = 1
 
   [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
+  name = "Mieux nous connaitre"
+  URL = "mieux-nous-connaitre"
   weight = 2
 
   [[menu.footer]]
@@ -69,7 +70,7 @@ disqusShortname = ""
   weight = 3
 
   [[menu.footer]]
-  name = "Terms & Conditions"
+  name = "Mentions légales et Politique de Confidentialité"
   URL = "terms-conditions"
   weight = 4
 
@@ -78,27 +79,27 @@ disqusShortname = ""
   URL = "contact"
   weight = 5
 
-
+   
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 home = "Accueil"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Métallerie : Conception et Réalisations sur mesure"
+author = "Phil K"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+mapMarker = "images/profile-picture.jpg"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "0613439523"
+email = "contact@sicade.com"
+location = "Lille, France"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
