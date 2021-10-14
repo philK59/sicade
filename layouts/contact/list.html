@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if site.Data.contact.contact.enable }}
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-sm-6">
+        {{ with site.Data.contact.contact.office }}
+        <h3 class="mb-4">{{ .title | markdownify }}</h3>
+        <p>{{ .content | markdownify }}</p>
+        {{ end }}
+
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="text-color" href="tel:{{ site.Params.mobile }}"><i
+                class="ti-mobile text-primary mr-2"></i>
+             {{ site.Params.mobile }}</a></li>
+          <li class="mb-3"><a class="text-color" href="mailto:{{ site.Params.email }}"><i
+                class="ti-email text-primary mr-2"></i>{{ site.Params.email }}</a></li>
+          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i>{{ site.Params.location }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 offset-lg-1 col-sm-6">
+        {{ with site.Data.contact.contact.opennigHour }}
+        <h3 class="mb-4">{{ .title | markdownify }}</h3>
+        <ul class="list-unstyled">
+          {{ range .dayTimeList }}
+          <li class="mb-3">{{ .dayTime | markdownify }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+      <div class="col-lg-4">
+        <h3 class="mb-4">Contactez nous</h3>
+        <form action="{{ site.Params.contact.formAction }}" method="POST">
+          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Votre Nom">
+          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Votre Email">
+          <textarea name="message" id="message" class="form-control mb-2" placeholder="Votre Message"></textarea>
+          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Envoyez maintenant</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ if site.Data.contact.map.enable }}
+
+<section class="section pt-0">
+  <div class="container">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.902584019278!2d2.9217640157351643!3d50.55458157948985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dd2dbf5b43d29b%3A0xb5e8d7533c2cb9b7!2sSARL%20SICADE!5e0!3m2!1sfr!2sfr!4v1633712434000!5m2!1sfr!2sfr" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  </div> 
+</section>
+
+{{ end }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}
