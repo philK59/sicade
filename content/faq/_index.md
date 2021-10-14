@@ -7,4 +7,4 @@ description : "this is a meta description"
 
 ### Questions Fréquentes
 
-Ci-dessous les questions les plus fréquentes de nos clients <br> si vous avez d'autres questions, merci de nous les indiquer à contact@sicade.com
+Ci-dessous les questions les plus fréquentes de nos clients; Si vous avez d'autres questions, merci de nous les indiquer à contact@sicade.com
