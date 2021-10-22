@@ -118,24 +118,8 @@ currencySymbol = "$"
 
   # Social Site
   [[params.social]]
-  icon = "ti-facebook"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-instagram"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  icon = "ti-linkedin"
+  link = "https://www.linkedin.com/in/philippe-cabotse-56744217b/"
 
   # Contact Form
   [params.contact]

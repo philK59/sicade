@@ -4,7 +4,7 @@ date: 2021-10-07T09:31:07+02:00
 draft: false
 
 # meta description
-description : "Pour les établissements Publics et Privés"
+description : "Mobilier et matériel en acier inoxydable"
 
 # Product Short Description
 shortDescription: "Pour les établissements Publics et Privés"
@@ -18,9 +18,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/produits/produit-12.png"
-  - image: "images/produits/produit-18.png"
   - image: "images/produits/produit-19.png"
+  - image: "images/produits/produit-18.png"
+  - image: "images/produits/produit-12.png"
   - image: "images/produits/produit-20.png"
 ---
 
@@ -38,4 +38,4 @@ Clinique Privée
 * Utilisation de matière inox standard pour réalisation en nos ateliers après prise de cotes sur site
 * Pose des équipements par nos techniciens
 
-##### Les ingénieurs techniques nous sollicitent régulièrement pour trouver des solutions d'agencement qu'ils ne trouvent pas dans les catalogues ou sur les sites internet. Nous sommes amenés à conçevoir des équipements spécifiques qui répondent aux éxigences de nos clients en terme de qualité et de prix. 
+##### Les ingénieurs techniques nous sollicitent régulièrement pour trouver des solutions d'agencement qu'ils ne trouvent pas dans les catalogues ou sur les sites internet. Nous sommes amenés à conçevoir des équipements spécifiques qui répondent aux éxigences de nos clients en terme de qualité et de prix. Nous réalisons du mobilier inox sur mesure : armoires, tables, guéridons, plateaux, rayonnages, rail mural, supports et accessoires, porte-documents, porte-sonde, paniers, tablettes et consoles, potences murales, porte-sérum, plans de travail, paillasses

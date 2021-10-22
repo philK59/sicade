@@ -4,7 +4,7 @@ date: 2021-09-28T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Pour établissements les Publics et Privés"
+description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisés"
 
 # Product Short Description
 shortDescription: "Pour établissements les Publics et Privés"

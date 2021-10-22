@@ -2,8 +2,10 @@
 banner:
   enable : true
   title : "Fabrications Métalliques sur mesure"
-  content : "Dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement des bâtiments,
-  des opérations de maintenance préventive et corrective nécessaires à la préservation et à l’adaptation du patrimoine bâti"
+  content : "...dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
+  des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
+  
+
   image : "images/soudeur.jpg" 
 
 ########################## About ##############################
@@ -35,13 +37,12 @@ material:
     # material item loop
     - title : "Pose des équipements sur site"
       image : "images/material/assemblage.png"
-      content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent tout en préservant l’esthétisme de votre site.
-      La sécurité est notre priorité"
+      content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent, tout en préservant l’esthétisme de votre site"
       
     # material item loop
     - title : "SAV"
       image : "images/material/sav.png"
-      content : "Nous garantissons un suivi efficace de vos installations.Nous souhaitons instaurer une relation de confiance à long terme avec nos clients "
+      content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec nos clients "
 
 ########################### Advantage #########################
 advantage:
@@ -51,7 +52,7 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Réactivité"
+    - listItem : "Proximité et Réactivité"
     - listItem : "Ecoute"
     - listItem : "Esprit de Service"
     - listItem : "Rigueur"  
@@ -81,7 +82,7 @@ testimonial:
     # testimonial item loop
     - name : "Eric B."
       image : "images/clients/onera.png" # size 100px*100px
-      designation : "Responsable technique Grands équipements"
+      designation : "Responsable technique Grands équipements ONERA Lille"
       content : "Les équipes SICADE sont fiables, respectueuses de la sécurité sur le terrain"
       rating : "five" # rating star, one to five
       

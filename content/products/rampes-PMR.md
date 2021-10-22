@@ -4,7 +4,7 @@ date: 2021-09-22T17:10:31+02:00
 draft: false
 
 # meta description
-description : "Pour les établissements Publics et Privés"
+description : "Mise en accessibilité des établissements recevants du public"
 
 # Product Short Description
 shortDescription: "Pour les établissements Publics et Privés"

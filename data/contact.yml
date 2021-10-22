@@ -4,8 +4,8 @@ contact:
   # office
   office:
     title : "Service Commercial"
-    content : "Pour toute demande au sujet de nos services ou de nos tarifs, utilisez le formulaire pour nous contacter.
-Merci de renseigner vos coordonnées et de décrire brièvement votre projet; Nous reprendrons rapidement conntact avec vous."
+    content : "Pour toute demande au sujet de nos services ou de nos tarifs, merci de bien vouloir utiliser le formulaire pour nous contacter.
+Vous pouvez également décrire brièvement votre projet; Nous reprendrons rapidement conntact avec vous."
   # other information comes from "config.toml"
 
   # opennig hour

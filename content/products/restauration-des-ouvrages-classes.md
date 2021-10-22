@@ -4,7 +4,7 @@ date: 2021-09-22T17:48:11+02:00
 draft: false
 
 # meta description
-description : "Pour les établissements Publics et Privés"
+description : "Remise en état des ouvrages métalliques des établissements classés aux monuments historiques"
 
 # Product Short Description
 shortDescription: "Pour les établissements Publics et Privés"

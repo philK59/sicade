@@ -4,7 +4,7 @@ date: 2021-09-29T12:08:59+02:00
 draft: false
 
 # meta description
-description : "Pour les établissements Publics et Privés"
+description : "Chariots modulables, de service restauration, de soins, de visite, d'urgence, "
 
 # Product Short Description
 shortDescription: "Pour les établissements Publics et Privés"

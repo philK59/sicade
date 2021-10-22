@@ -1,14 +1,18 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
-
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-12 mb-5">
-        <div class="content">
-          {{.Content}}
-        </div>
+      <div class="col-lg-8 mx-auto">
+        <article>
+          <h2>{{ .Title }}</h2>
+          <ul class="list-inline mb-4">                        
+          </ul>
+          <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4">
+          <div class="content">
+            {{.Content}}
+          </div>
+        </article>
       </div>
     </div>
   </div>
