@@ -7,7 +7,7 @@ draft: false
 description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisés"
 
 # Product Short Description
-shortDescription: "Pour établissements les Publics et Privés"
+shortDescription: "Cloisons grillagées, grilles anti effraction, grillage, sas, cage, abri fumeurs,auvent, plateforme technique, tôles nervurées, treillis soudé, caillebotis, cartérisation, carter, portillon, plateforme, escalier, garde corps, main courante, marche, protections, portique, butée"
 
 #product ID
 productID: "3"
@@ -36,7 +36,7 @@ images:
 #### solutions : 
 * Réalisation sur mesure
 * Montage "à blanc" de la cage en nos ateliers avant montage sur site
-* Utilisation de cloisons grillagées en acier galvanisé; Toiture en tôle nervurées; Fermeture par portes coulissantes sur rails avec serrures 
+* Utilisation de cloisons grillagées en acier galvanisé; Toiture en tôle nervurées; Fermeture par portes coulissantes sur rails avec serrures, l'ensemble galvanisé à chaud. 
  
 
 ##### Nous pouvons gérer l'ensemble d'un projet faisant appel à différents corps de métier, par exemple nous pouvons prendre en charge la réalisation d'une plateforme en béton, avant d'installer nos ouvrages métalliques ...

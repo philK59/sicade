@@ -7,7 +7,7 @@ draft: false
 description : "Remise en état des ouvrages métalliques des établissements classés aux monuments historiques"
 
 # Product Short Description
-shortDescription: "Pour les établissements Publics et Privés"
+shortDescription: "Portail, grille, escalier, porte"
 
 #product ID
 productID: "2"
@@ -27,19 +27,20 @@ images:
 #### service :
 Rénovation d'anciens portails d'un bâtiment classé aux monuments historiques
 #### client: 
-Ecole Nationale d'Ingénieurs 
+Ecole Nationale d'Ingénieurs Textile - Roubaix
 #### challenge :
 * Travaux à effectuer alors que l'école était en activité avec la présence d'étudiants.
-* Dépose et pose 
+* Dépose et pose des portails
 * Restauration des portails en nos ateliers.
-* Mise en peinture en respectant les coloris d'origines 
+* Décapage et mise en peinture 
+* Remplacer les accessoires décoratifs manquants  
 #### solutions :
-* Evaluation des risques de l'intervention et transmission des consignes adaptées au personnel.
+* Evaluation des risques de l'intervention et transmission des consignes de sécurité à nos techniciens intervenenant sur le site.
 * Balisage du chantier et respect des règles de sécurité.
-* Utilisation d'un camion grue.
-* Pose d'une barrière provisoire pour éviter les vols dans l'établissement
-* Choix de réparation la plus discrète et réversible possible pour respecter l'ouvrage d'origine.
+* Utilisation d'un camion grue, blocage de la route et du trottoir le temps de l'intervention
+* Pose d'une barrière en remplacement de la barrière démontée pour fermer l'établissement et éviter les vols.
+* Choix de réparation et mise en oeuvre respectueux de la fabrication d'origine.
 * Fabrication en usinage des accessoires manquants comme des cabochons décoratifs, des paumelles cassées... 
 * Utilisation d'une peinture époxy avec teinte proche de l'originale.
 
-##### L'organisation d'un chantier exige une logistique sans faille; C'est pourquoi, de nombreux responsables de patrimoine nous font confiance; Vous aussi, travaillez avec des professionnels capables de vous présenter des références de chantiers dans la région.
+##### L'organisation d'un chantier exige une logistique sans faille; C'est pourquoi, de nombreux responsables de pâtrimoine nous font confiance; Vous aussi, travaillez avec des professionnels capables de vous présenter des références de chantiers dans la région.
