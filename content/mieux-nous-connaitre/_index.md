@@ -7,33 +7,34 @@ image: "images/local.jpg"
 author: "Phil K"
 ---
 
-Implantée dans les Hauts de France, notre entreprise familiale et artisanale a été crée par Monsieur Bernard Cabotse en 1989, et reprise par son fils Philippe en 2004.
+Implantée dans les Hauts de France, notre entreprise familiale et artisanale a été créee par Monsieur Bernard Cabotse en 1989, et reprise par son fils Philippe en 2004.
 
-Au départ, l'entreprise était située au 165 avenue de Bretagne, ou se situe actuellement le site d'excellence EURTECHNOLOGIE.
-Très vite, grâce aux réseaux de Monsieur Cabotse (essor MPI, Nord Entreprendre....), de grands groupes nous font confiance comme, Auchan Logistique, STOW France, ou encore Chep France.   
+Au départ, l'entreprise était dans des locaux situés au 165 avenue de Bretagne, où se trouve actuellement le site d'excellence EURATECHNOLOGIE.
+Très vite, grâce aux réseaux de Monsieur Cabotse (Club Essor MPI, Nord Entreprendre....), de grands groupes nous ont fait confiance comme, Auchan Logistique, STOW France, ou encore Chep France.   
 
-Depuis 1997, nos locaux se situent à Wavrin au n°16 Allée de la Clairière.
-Désormais, l'entreprise travaille également avec le secteur hospitalier public et privée.  
+A partir de 1997, la société se situe à Wavrin au n°16 Allée de la Clairière.
 
 Depuis 30 ans, l'entreprise se développe pour s'adapter aux mutations des marchés et des usages.
 SICADE répond aux besoins de ses clients et met à leur service toute son expertise 
 
-Spécialisée dans le parachèvement et le soudage de l’acier et de l’inox, SICADE accompagne les grands noms de l’industrie et des établissements publics, pour l'amélioration continue de leurs process. Les équipements réalisés par SICADE sont sur mesure, et donc uniques.
+Spécialisée dans le parachèvement et le soudage de l’acier et de l’inox, SICADE accompagne les  établissements publics et privés, dans la recherche de solutions permettant l'amélioration continue de leurs process. 
 
-SICADE met à leur disposition un parc machine complet et moderne, pour réaliser tout type de projet du plus simple au plus complexe, et tous types d'assemblages INOX. 
+SICADE réalise tout type de projet, du plus simple au plus complexe, et tous types d'assemblages INOX. 
 
-Nos équipes de production allient savoir-faire artisanal et haute technologie pour façonner sur mesure les produits répondant à vos exigences.
+Nous mettons au service de nos clients, notre savoir-faire artisanal, et des outils de haute technologie, pour façonner sur mesure les produits répondant à leurs exigences. Les équipements réalisés par SICADE sont uniques.
 
 SICADE peut également intervenir sur site pour prendre en charge l’installation des réalisations.
 
-Nous intervenons régulièrement dans les projets de rénovation, de réaménagement d'espace ou restructuration de bâtiments, pricipalement dans la région des Hauts de France, et plus particulièrement la région Lilloise.
+Nous intervenons régulièrement dans les projets de rénovation, de réaménagement d'espace ou de restructuration de bâtiments, pricipalement dans la région des Hauts de France, et plus particulièrement dans la région Lilloise.
 
 Engagé dans un processus d'amélioration continue, SICADE offre l'assurance de la rigueur, de la fiabilité et d’un excellent rapport qualité prix.
 
-> Vous souhaitez améliorer vos conditions de production ? Mettre aux normes de sécurité et d'accessibilité vos locaux ? SICADE saura vous proposer une solution technique qui répondra à vos besoins. 
+> Vous souhaitez améliorer vos conditions de production ?       
+>Mettre aux normes de sécurité et d'accessibilité vos locaux ? 
+>SICADE saura vous proposer une solution technique qui répondra à vos besoins. 
 
-                                                                                                                                                          
-                                 
+                                                                                                                                                      
+                             
                                          
 
  | | 

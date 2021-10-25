@@ -4,7 +4,7 @@ date: 2021-09-22T17:10:31+02:00
 draft: false
 
 # meta description
-description : "Mise en accessibilité des établissements recevants du public, établissements privées et publics"
+description : "Mise en accessibilité des établissements recevant du public, établissements privés et publics"
 
 # Product Short Description
 shortDescription: "Rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, palier, plateforme" 
@@ -27,18 +27,18 @@ images:
 #### service : 
 Mise aux normes en terme d'accessibilité, d'un établissement recevant du public : Remplacement d'une ancienne rampe d'accès.
 #### client :
-Musée régional de la mine
+Musée régional de la mine de LEWARDE
 
 #### challenge :
-* Trouver une solution pérenne
-* Installer un platelage permettant d'évacuer facilement la neige et la pluie
+* Trouver une solution de fabrication pérenne pour une installation en extérieur
+* Installer un platelage (sol) permettant d'évacuer facilement la neige et la pluie, tout en respectant les normes PMR imposant un matériau anti-dérapant 
 * Intégrer l'ouvrage entre deux bâtiments existants, en respectant la pente normative
-* Différencier les différents élements composant la rampe, notamment la main courante pour les personnes avec une déficience visuelle
-* Garder un aspect industriel pour respecter l'architecture du lieu.
+* Différencier les différents élements composant la rampe, en particulier la main courante pour faciliter son repérage par les personnes avec une déficience visuelle
+* Garder un aspect industriel pour respecter l'architecture du lieu
 
 #### solution :
+* Fabrication entièrement métallique, l'ensemble de la structure à été galvanisé à chaud
 * Utilisation de peinture époxy bicolore, dont une peinture blanche pour démarquer la main courante
-* Fabrication entièrement métallique, l'ensemble de la structure à été galvanisée à chaud
-* Respect des normes PMR : pente, présence de chasse-roue, respect des dimensions normatives des paliers de départ et intermédiaires, utilisation d'un platelage perforé antidérapant galvanisé, présence d'une crosse au départ et à l'arrivée de la rampe, largeur de cheminement, la, hauteur des mains courantes
+* Respect des normes PMR : pente, présence de chasses-roue, respect des dimensions normatives des paliers de départ et intermédiaires, utilisation d'un platelage en tôles perforées antidérapantes galvanisées, présence d'une crosse au départ et à l'arrivée de la rampe, hauteur des mains courantes selon les normes.
 
 ##### La fabrication d'une rampe d'accès PMR demande une bonne connaissance des normes en vigueur. Faites confiance à un spécialiste ayant de nombreuses références dans le domaine.

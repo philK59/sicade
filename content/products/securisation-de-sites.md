@@ -4,10 +4,10 @@ date: 2021-09-28T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisés"
+description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisées"
 
 # Product Short Description
-shortDescription: "Cloisons grillagées, grilles anti effraction, grillage, sas, cage, abri fumeurs,auvent, plateforme technique, tôles nervurées, treillis soudé, caillebotis, cartérisation, carter, portillon, plateforme, escalier, garde corps, main courante, marche, protections, portique, butée"
+shortDescription: "Cloison grillagée, grille anti-effraction, grillage, sas, cage, abri fumeurs, auvent, plateforme technique, tôle nervurée, treillis soudé, caillebotis, cartérisation, portillon, plateforme, escalier, garde corps, main courante, marches, protection, portique, butée"
 
 #product ID
 productID: "3"
@@ -25,18 +25,24 @@ images:
 ---
 
 #### service :
-* Réalisation d'un abri de poste électrique avec accès sécurisé.L'objectif était de sécurisé l'accès à un poste électrique et de protéger ses installations des intempéries et de surchauffe dû au soleil
-* Fabrication et pose de caillebotis pour éviter les chutes des intervenants
-* Pose de bareaudages aux fenêtres
-
+* 
 #### client: 
 * Université de Lille 
 #### challenge :
-* Coordination du chantier : Réalisation d'une dalle béton anti-vibration, pose des protections grillagées anti-effraction, pose de la toiture et gouttière
+* Réaliser une dalle béton anti-vibration avant la pose d'un groupe électrogène
+* Sécuriser l'accès du groupe électrogène
+* Sécuriser l'accès d'un plateau technique
+* Protéger un poste électrique contre les intempéries et la surchauffe dûe au soleil
+* Assurer la continuité des services de fourniture d'électricité 
 #### solutions : 
-* Réalisation sur mesure
-* Montage "à blanc" de la cage en nos ateliers avant montage sur site
-* Utilisation de cloisons grillagées en acier galvanisé; Toiture en tôle nervurées; Fermeture par portes coulissantes sur rails avec serrures, l'ensemble galvanisé à chaud. 
+* Réalisation de la dalle béton par une entreprise sous traitante de maçonnerie : coordination du chantier par notre technicien
+* Réalisation d'un abri métallique avec accès sécurisé, pour un ensemble poste électrique + groupe électrogène
+* Fabrication et pose de caillebotis pour éviter la chute des techniciens de maintenance 
+* Pose d'un ensemble de cloisons grillagées anti-effraction
+* Pose d'une toiture en tôles nervurées 
+* Montage "à blanc" des cloisons en nos ateliers pour contrôle avant montage sur site
+* Installation de portes grillagées coulissantes sur rails avec serrures
+* Ensemble de la structure galvanisé à chaud 
  
 
-##### Nous pouvons gérer l'ensemble d'un projet faisant appel à différents corps de métier, par exemple nous pouvons prendre en charge la réalisation d'une plateforme en béton, avant d'installer nos ouvrages métalliques ...
+##### La mise en oeuvre d'un projet de construction métallique implique parfois la participation d'entreprises partenaires spécialisées dans leur métier comme des maçons, des électriciens...

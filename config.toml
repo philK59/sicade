@@ -85,7 +85,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Accueil"
 # Meta data
-description = "Conception et Réalisations de tout type d'équipements métalliques sur mesure"
+description = "Conception et Réalisations de tout type d'équipements métalliques sur mesure Acier et Inox"
 author = "Phil K"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
