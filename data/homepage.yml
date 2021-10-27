@@ -73,11 +73,11 @@ testimonial:
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Dominique G."
+    - name : "Vincent R."
       image : "images/clients/chulille.png" # size 100px*100px
-      designation : "Responsable technique et patrimoine Formation et Recherche Faculté de Médecine Lille"
+      designation : "Responsable technique et patrimoine Faculté de Médecine Lille"
       content : "La sarl SICADE nous accompagne régulièrement dans nos recherches de solutions de sécurité pour l'ensemble de nos bâtiments"
-      rating : "three" # rating star, one to five
+      rating : "four" # rating star, one to five
       
     # testimonial item loop
     - name : "Eric B."
