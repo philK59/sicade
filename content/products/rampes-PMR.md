@@ -25,9 +25,9 @@ images:
 ---
 
 #### service : 
-Mise aux normes en terme d'accessibilité, d'un établissement recevant du public : Remplacement d'une ancienne rampe d'accès.
+* Mise aux normes en terme d'accessibilité, d'un établissement recevant du public : Remplacement d'une ancienne rampe d'accès
 #### client :
-Musée régional de la mine de LEWARDE
+* Musée régional de la mine de LEWARDE
 
 #### challenge :
 * Trouver une solution de fabrication pérenne pour une installation en extérieur

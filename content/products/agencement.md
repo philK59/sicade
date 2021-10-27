@@ -28,7 +28,7 @@ images:
 * Conception, fabrication et pose d'équipements en acier inoxydable pour l'agencement d'une pharmacie d' une clinique  
 
 #### client :
-Clinique Privée Hauts de France 
+* Clinique Privée Hauts de France 
 
 #### challenge :
 * Réaliser un ensemble d'équipements en inox sur mesure : plinthes, supports paillassses en vue d'équiper la pharmacie d'une clinique privée 
