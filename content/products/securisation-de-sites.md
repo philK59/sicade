@@ -25,9 +25,9 @@ images:
 ---
 
 #### service :
-* 
+* Conception et réalisation d'un ensemble de protections grillagées et supports caillebotis sur une zone technique 
 #### client: 
-* Université de Lille 
+* CHU de Lille 
 #### challenge :
 * Réaliser une dalle béton anti-vibration avant la pose d'un groupe électrogène
 * Sécuriser l'accès du groupe électrogène
