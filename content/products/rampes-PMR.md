@@ -38,7 +38,7 @@ images:
 
 #### solution :
 * Fabrication entièrement métallique, l'ensemble de la structure à été galvanisé à chaud
-* Utilisation de peinture époxy bicolore, dont une peinture blanche pour démarquer la main courante
+* Utilisation de peinture époxy blanche pour démarquer la main courante
 * Respect des normes PMR : pente, présence de chasses-roue, respect des dimensions normatives des paliers de départ et intermédiaires, utilisation d'un platelage en tôles perforées antidérapantes galvanisées, présence d'une crosse au départ et à l'arrivée de la rampe, hauteur des mains courantes selon les normes.
 
 ##### La fabrication d'une rampe d'accès PMR demande une bonne connaissance des normes en vigueur. Faites confiance à un spécialiste ayant de nombreuses références dans le domaine.
