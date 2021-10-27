@@ -26,7 +26,7 @@ images:
 
 #### service :
 Rénovation d'une série de portails d'un bâtiment classé aux monuments historiques
-#### client: 
+#### client : 
 Ecole Nationale d'Ingénieurs Textile - Roubaix
 #### challenge :
 * Travaux à effectuer alors que l'école était en activité, avec la présence d'étudiants.
