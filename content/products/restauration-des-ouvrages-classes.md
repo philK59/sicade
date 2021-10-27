@@ -36,9 +36,9 @@ images:
 * Evaluation des risques de l'intervention, et transmission des consignes de sécurité à nos techniciens intervenenant sur le site
 * Balisage du chantier
 * Utilisation d'un camion grue, blocage de la route et du trottoir le temps de l'intervention
-* Pose d'une barrière en remplacement de la barrière démontée pour fermer l'établissement et éviter les vols.
+* Pose d'une barrière en remplacement de la grille démontée pour fermer l'établissement et éviter les vols.
 * Restauration des portails en nos ateliers 
-* Choix de réparation esthétiques et respectueux de la fabrication d'origine
+* Choix de réparation esthétique et respectueux de la fabrication d'origine
 * Fabrication en usinage des accessoires manquants comme des cabochons décoratifs, des paumelles cassées... 
 * Décapage et mise en peinture : utilisation d'une peinture époxy avec teinte proche de l'originale.
 

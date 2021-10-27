@@ -30,14 +30,14 @@ images:
 * CHU de Lille 
 #### challenge :
 * Réaliser une dalle béton anti-vibration avant la pose d'un groupe électrogène
-* Sécuriser l'accès du groupe électrogène
-* Sécuriser l'accès d'un plateau technique
-* Protéger un poste électrique contre les intempéries et la surchauffe dûe au soleil
+* Sécuriser l'accès au groupe électrogène
+* Sécuriser l'accès à un plateau technique
+* Protéger un poste de transformation électrique contre les intempéries et la surchauffe dûe au soleil
 * Assurer la continuité des services de fourniture d'électricité 
 #### solutions : 
 * Réalisation de la dalle béton par une entreprise sous traitante de maçonnerie : coordination du chantier par notre technicien
-* Réalisation d'un abri métallique avec accès sécurisé, pour un ensemble poste électrique + groupe électrogène
-* Fabrication et pose de caillebotis pour éviter la chute des techniciens de maintenance 
+* Réalisation d'un abri métallique avec accès sécurisé, pour l'ensemble poste électrique + groupe électrogène
+* Fabrication et pose de caillebotis au sol pour éviter la chute des techniciens de maintenance 
 * Pose d'un ensemble de cloisons grillagées anti-effraction
 * Pose d'une toiture en tôles nervurées 
 * Montage "à blanc" des cloisons en nos ateliers pour contrôle avant montage sur site
@@ -45,4 +45,5 @@ images:
 * Ensemble de la structure galvanisé à chaud 
  
 
-##### La mise en oeuvre d'un projet de construction métallique implique parfois la participation d'entreprises partenaires spécialisées dans leur métier comme des maçons, des électriciens...
+##### La mise en oeuvre d'un projet de construction métallique implique parfois la participation d'entreprises partenaires spécialisées dans leur métier, comme des sociétés de maçonnerie, des électriciens... Nous pouvons trouver ces compétences et les manager sur le terrain pour la réalisation de travaux complémentaires à nos chantiers de métallerie, et ainsi vous offrir une prestation complète.
+
