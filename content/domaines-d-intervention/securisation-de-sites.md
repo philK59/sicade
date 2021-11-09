@@ -13,7 +13,7 @@ shortDescription: "Cloison grillagée, grille anti-effraction, grillage, sas, ca
 productID: "3"
 
 # type must be "products"
-type: "products"
+type: "domaines-d-intervention"
 
 # product Images
 # first image will be shown in the product page

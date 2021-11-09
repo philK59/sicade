@@ -13,7 +13,7 @@ shortDescription: "paillasse, table à instrument, panier, support sonde, armoir
 productID: "1"
 
 # type must be "products"
-type: "products"
+type: "domaines-d-intervention"
 
 # product Images
 # first image will be shown in the product page

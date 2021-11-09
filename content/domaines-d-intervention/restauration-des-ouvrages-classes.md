@@ -13,7 +13,7 @@ shortDescription: "Portail, grille, escalier, porte"
 productID: "2"
 
 # type must be "products"
-type: "products"
+type: "domaines-d-intervention"
 
 # product Images
 # first image will be shown in the product page

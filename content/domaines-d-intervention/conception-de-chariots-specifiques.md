@@ -13,7 +13,7 @@ shortDescription: "Chariot médicaments, chariot de service, chariot de distribu
 productID: "3"
 
 # type must be "products"
-type: "products"
+type: "domaines-d-intervention"
 
 # product Images
 # first image will be shown in the product page

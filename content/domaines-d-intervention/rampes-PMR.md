@@ -13,7 +13,7 @@ shortDescription: "Rampe d'accès aux normes PMR (personnes à mobilité réduit
 productID: "1"
 
 # type must be "products"
-type: "products"
+type: "domaines-d-intervention"
 
 # product Images
 # first image will be shown in the product page

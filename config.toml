@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
 languageCode = "fr"
-title = "Sicade"
+title = "Sicade - Tous travaux de Métallerie Tôlerie Chaudronnerie - Conception Fabrication d'articles métalliques sur mesure"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -34,7 +34,7 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Domaines d'intervention"
-  URL = "products"
+  URL = "domaines-d-intervention"
   weight = 1
 
   [[menu.main]]
