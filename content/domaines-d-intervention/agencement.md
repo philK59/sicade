@@ -7,7 +7,7 @@ draft: false
 description : "Mobilier et matériel en acier inoxydable pour les établissements de santé, les laboratoires"
 
 # Product Short Description
-shortDescription: "paillasse, table à instrument, panier, support sonde, armoire à pharmacie, rack, rayonnage, colonne de stockage, module de stockage, guéridon inox, marche pied, estrade, tige porte sérum, porte sonde, caisson, portique, plan de travail, bloc tiroir, rail, accessoires, tablette abattante, support mural"
+shortDescription: "paillasse, table à instrument, panier, support sonde, armoire à pharmacie, rack, rayonnage, colonne de stockage, module de stockage, guéridon inox, marche pied, estrade, tige porte sérum, porte sonde, caisson, portique, plan de travail, bloc tiroir, rail, accessoires, tablette abattante, support mural, claustra"
 
 #product ID
 productID: "1"
