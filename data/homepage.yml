@@ -51,12 +51,11 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Proximité et Réactivité"
-    - listItem : "Ecoute"
-    - listItem : "Esprit de Service"
-    - listItem : "Rigueur"  
-    - listItem : "Conseils et Avis techniques"
-    - listItem : "Expertise : une expèrience de plus de 30 ans pour vous assister dans tous vos projets de réalisations métalliques sur mesure"
+    - listItem : "Proximité : C'est pourquoi nous intervenons principalement dans la région des Hauts de France pour garantir une grande réactivité à nos clients"
+    - listItem : "Ecoute : Parce que c'est notre client qui connait le mieux sa problématique"
+    - listItem : "Esprit de Service : C'est sur ce point que nous essayons de nous distinguer le plus, le client doit pouvoir compter sur nous !"
+    - listItem : "Rigueur : pour une satisfaction client optimum !"
+    - listItem : "Expertise : Une expèrience de plus de 30 ans ! Nous vous conseillerons et vous donnerons des avis techniques si besoin"
     
 ########################## Testimonial ########################
 testimonial:
