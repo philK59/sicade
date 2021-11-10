@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ if site.Data.contact.contact.enable }}
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-sm-6">
+        {{ with site.Data.contact.contact.office }}
+        <h3 class="mb-4">{{ .title | markdownify }}</h3>
+        <p>{{ .content | markdownify }}</p>
+        {{ end }}
+
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="text-color" href="tel:{{ site.Params.mobile }}"><i
+                class="ti-mobile text-primary mr-2"></i>
+             {{ site.Params.mobile }}</a></li>
+          <li class="mb-3"><a class="text-color" href="mailto:{{ site.Params.email }}"><i
+                class="ti-email text-primary mr-2"></i>{{ site.Params.email }}</a></li>
+          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i>{{ site.Params.location }}
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 offset-lg-1 col-sm-6">
+        {{ with site.Data.contact.contact.opennigHour }}
+        <h3 class="mb-4">{{ .title | markdownify }}</h3>
+        <ul class="list-unstyled">
+          {{ range .dayTimeList }}
+          <li class="mb-3">{{ .dayTime | markdownify }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+      <div class="col-lg-4">
+        <h3 class="
+        mb-4">Contactez-nous</h3>
+        <form action="/thankyou" method="post" name="Contact" netlify>
+          <label>Nom<input type="text" class="form-control mb-2" id="name" name="nom" placeholder="Votre Nom"></label>
+          <label>Email<input type="email" class="form-control mb-2" id="email" name="email" placeholder="Votre Email"></label>
+          <textarea name="message" id="message" class="form-control mb-2" placeholder="Votre Message"></textarea>
+          <div data-netlify-recaptcha></div>
+          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Envoyez Maintenant</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+{{ if site.Data.contact.map.enable }}
+<section class="section pt-0">
+  <div class="container">
+    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2534.9028900910184!2d2.921815315806577!3d50.55457588773753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dd2c7380dcab2b%3A0xb4165719a7c0f8a0!2s16%20All.%20de%20la%20Clairi%C3%A8re%2C%2059136%20Wavrin!5e0!3m2!1sfr!2sfr!4v1634574484036!5m2!1sfr!2sfr" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe></center>
+  </div>
+</section>
+{{ end }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}

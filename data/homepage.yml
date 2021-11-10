@@ -1,0 +1,93 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Fabrications Métalliques sur mesure"
+  content : "...dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
+  des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
+  
+
+  image : "images/soudeur.jpg" 
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Un Seul Interlocuteur"
+  content : "Une expèrience de plus de 30 ans dans les domaines de la métallerie. Nous vous assistons dans tous vos projets de fabrications métalliques sur mesure"
+  image : "images/assistance.png"
+
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Un Service Global"
+  subtitle : "Nous nous occupons de tout"
+  materialItem:
+    # material item loop
+    - title : "Conception"
+      image : "images/material/surmesure.png"
+      content : "En amont du projet, le bureau d’étude vous conseille et vous apporte toute son expertise.
+      Votre projet est conceptualisé pour vous donner un aperçu du rendu final"
+      
+    # material item loop
+    - title : "Réalisations Sur Mesure"
+      image : "images/material/fabrication.png"
+      content : "Parce que le sur-mesure exige rigueur et concertation, SICADE s’implique au maximum avec le client, en favorisant l’accompagnement et le suivi dans la construction d’un service de qualité"
+      
+    # material item loop
+    - title : "Pose des équipements sur site"
+      image : "images/material/assemblage.png"
+      content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent, tout en préservant l’esthétisme de votre site"
+      
+    # material item loop
+    - title : "SAV"
+      image : "images/material/sav.png"
+      content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec nos clients "
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Nos Valeurs"
+  subtitle : "La réalisation d'un service de qualité exige un certain nombre de valeurs"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Proximité et Réactivité"
+    - listItem : "Ecoute"
+    - listItem : "Esprit de Service"
+    - listItem : "Rigueur"  
+    - listItem : "Conseils et Avis techniques"
+    - listItem : "Expertise"
+
+  
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Ce que nos clients disent de nous"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Willy H."
+      image : "images/clients/bodycote.jpg" # size 100px*100px
+      designation : "Responsable maintenance Bodycote Billy Bercleau"
+      content : "Sicade nous a toujours trouvé des solutions dimensionnées à nos problématiques dans des délais très courts"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Vincent R."
+      image : "images/clients/chulille.png" # size 100px*100px
+      designation : "Responsable technique et patrimoine Faculté de Médecine Lille"
+      content : "La sarl SICADE nous accompagne régulièrement dans nos recherches de solutions de sécurité pour l'ensemble de nos bâtiments"
+      rating : "four" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Eric B."
+      image : "images/clients/onera.png" # size 100px*100px
+      designation : "Responsable technique Grands équipements ONERA Lille"
+      content : "Les équipes SICADE sont fiables, respectueuses de la sécurité sur le terrain"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Pierre J."
+      image : "images/clients/ensait.jpg" # size 100px*100px
+      designation : "Responsable maintenance et patrimoine ENSAIT"
+      content : "Trés satisfait de l'ensemble des prestations réalisées par SICADE"
+      rating : "four" # rating star, one to five

@@ -1,0 +1,26 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "Service Commercial"
+    content : "Pour toute demande au sujet de nos services ou de nos tarifs, merci de bien vouloir utiliser le formulaire pour nous contacter.
+Vous pouvez également décrire brièvement votre projet; Nous reprendrons rapidement contact avec vous."
+  # other information comes from "config.toml"
+
+  # opennig hour
+  opennigHour:
+    title : "Horaires d'Ouverture"
+    dayTimeList:
+      - dayTime : "Lundi: 8:30 – 18:00"
+      - dayTime : "Mardi: 8:30 – 18:00"
+      - dayTime : "Mercredi: 8:30 – 18:00"
+      - dayTime : "Jeudi: 8:30 – 18:00"
+      - dayTime : "Vendredi: 8:30 – 18:00"
+      - dayTime : "Samedi: fermé"
+      - dayTime : "Dimanche: fermé"
+
+####################### google map ########################
+map:
+  enable: true 
+  
