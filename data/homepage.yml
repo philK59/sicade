@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Fabrications Métalliques sur mesure"
+  title : "Métallerie Mécano-soudure sur Lille et ses environs"
   content : "...dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
   des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
   
@@ -11,16 +11,16 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "Un Seul Interlocuteur"
-  content : "Une expèrience de plus de 30 ans dans les domaines de la métallerie. Nous vous assistons dans tous vos projets de fabrications métalliques sur mesure"
+  title : "Soudure Découpe Laser Oxycoupage Thermolaquage peinture époxy Assemblage "
+  content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit"
   image : "images/assistance.png"
 
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Un Service Global"
-  subtitle : "Nous nous occupons de tout"
+  title : "Conception Fabrication Montage"
+  subtitle : "Un Service Global"
   materialItem:
     # material item loop
     - title : "Conception"
@@ -56,9 +56,8 @@ advantage:
     - listItem : "Esprit de Service"
     - listItem : "Rigueur"  
     - listItem : "Conseils et Avis techniques"
-    - listItem : "Expertise"
-
-  
+    - listItem : "Expertise : une expèrience de plus de 30 ans pour vous assister dans tous vos projets de réalisations métalliques sur mesure"
+    
 ########################## Testimonial ########################
 testimonial:
   enable : true
