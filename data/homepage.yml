@@ -41,7 +41,7 @@ material:
     # material item loop
     - title : "SAV"
       image : "images/material/sav.png"
-      content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec nos clients "
+      content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec vous"
 
 ########################### Advantage #########################
 advantage:
