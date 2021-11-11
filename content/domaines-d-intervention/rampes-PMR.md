@@ -37,10 +37,12 @@ images:
 * Garder un aspect industriel pour respecter l'architecture du lieu
 
 #### solution :
-* Fabrication entièrement métallique, l'ensemble de la structure à été galvanisé à chaud
-* Utilisation de peinture époxy blanche pour démarquer la main courante
+* Fabrication entièrement métallique
+* Traitement de surface de la structure: galvanisation à chaud et thermolaquage époxy
+* Utilisation de peinture blanche pour démarquer la main courante,
 * Respect des normes PMR : pente, présence de chasses-roue, respect des dimensions normatives des paliers de départ et intermédiaires, utilisation d'un platelage en tôles perforées antidérapantes galvanisées, présence d'une crosse au départ et à l'arrivée de la rampe, hauteur des mains courantes selon les normes
 * Nos garde-corps sont conformes aux normes NF P 01-012, 01-013 et 06-111-2/A1
+* Montage et assemblage sur site client avec camion grue
 
 ##### La fabrication d'une rampe d'accès PMR demande une bonne connaissance des normes en vigueur.
 Le garde-corps est un élément qui assure la sécurité en ajoutant du caractère à l’ouvrage; Pour sa réalisation, SICADE vous propose de nombreuses possibilités de personnalisation, du simple profilé rond au motif découpé au laser. La réalisation sur mesure vous assure un ouvrage sécurisé, unique et esthétique.

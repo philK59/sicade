@@ -1,18 +1,16 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Métallerie Mécano-soudure sur Lille et ses environs"
+  title : "Métallerie Tôlerie Serrurerie sur Lille et ses environs"
   content : "...dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
   des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
-  
-
   image : "images/soudeur.jpg" 
 
 ########################## About ##############################
 about:
   enable : true
-  title : "De la découpe laser au poinçonnage, du pliage à la soudure (TIG-MIG-MAG), acier, alu, inox, en passant par le traitement de surface (thermolaquage époxy ou galvanisation à chaud) et l'assamblage, nous sommes en mesure de répondre à vos besoins"
-  content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit"
+  title : "Découpe laser, poinçonnage, Pliage, Soudure"
+  content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit en acier, alu, inox"
   image : "images/assistance.png"
 
 

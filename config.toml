@@ -56,7 +56,7 @@ disqusShortname = ""
   ############# footer menu #############
   [[menu.footer]]
   name = "Domaines d'intervention"
-  URL = "products"
+  URL = "domaines-d-intervention"
   weight = 1
 
   [[menu.footer]]

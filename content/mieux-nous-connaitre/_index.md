@@ -21,7 +21,7 @@ SICADE accompagne principalement les professionnels (B to B), des secteurs publi
 
 SICADE réalise tout type de projet sur mesure, du plus simple au plus complexe en acier, alu et inox. 
 
-Nous mettons au service de nos clients, notre savoir-faire artisanal, et des outils de haute technologie, et une équipe  d’ouvriers qualifiés ayant chacun une spécialité : tuyauteurs, soudeurs, chaudronniers, métalliers et serruriers.
+Nous mettons au service de nos clients, notre savoir-faire artisanal, et des outils de haute technologie, et une équipe  d’ouvriers qualifiés ayant chacun une spécialité : tuyauteurs, soudeurs (TIG/MIG/MAG), chaudronniers, métalliers et serruriers.
 
 SICADE intervient si nécessaire sur site client, pour prendre en charge l’installation des réalisations.
 
