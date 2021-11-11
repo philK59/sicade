@@ -71,7 +71,7 @@ disqusShortname = ""
 
   [[menu.footer]]
   name = "Mentions légales et Politique de Confidentialité"
-  URL = "terms-conditions"
+  URL = "mentions-legales"
   weight = 4
 
   [[menu.footer]]
