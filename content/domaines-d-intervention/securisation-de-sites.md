@@ -7,7 +7,7 @@ draft: false
 description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisées"
 
 # Product Short Description
-shortDescription: "Cloison grillagée, grille anti-effraction, grillage, sas, cage, abri fumeurs, auvent, plateforme technique, tôle nervurée, treillis soudé, caillebotis, cartérisation, portillon, plateforme, escalier, garde corps, main courante, marches, protection, portique, butée"
+shortDescription: "Cloison grillagée, grille anti-effraction, grille de défense, barreaux de fenêtre, grillage, sas, cage, abri fumeurs, auvent, plateforme technique, tôle nervurée, treillis soudé, caillebotis, cartérisation, portillon, plateforme, escalier, garde corps, main courante, marches, protection, portique, butée"
 
 #product ID
 productID: "3"
@@ -45,5 +45,4 @@ images:
 * Ensemble de la structure galvanisé à chaud 
  
 
-##### La mise en oeuvre d'un projet de construction métallique implique parfois la participation d'entreprises partenaires spécialisées dans leur métier, comme des sociétés de maçonnerie, des électriciens... Nous pouvons trouver ces compétences et les manager sur le terrain pour la réalisation de travaux complémentaires à nos chantiers de métallerie, et ainsi vous offrir une prestation complète.
-
+##### La mise en oeuvre d'un projet de construction métallique implique parfois la participation d'entreprises partenaires spécialisées dans leur métier, comme des sociétés de maçonnerie, des électriciens... Nous pouvons trouver ces compétences et les manager sur le terrain pour la réalisation de travaux complémentaires à nos chantiers de métallerie, et ainsi vous offrir une prestation complète.Prestataire de service en serrurerie, métallerie, tuyauterie et soudure, nous intervenons sur un ensemble de domaines industriels : Maintenance industrielle, Modification d’installation, Bardage, Soudures spécifiques et étanches, TIG/MIG/MAG, Démontage/Montage.
