@@ -15,17 +15,26 @@ Très vite, grâce aux réseaux de Monsieur Cabotse (Club Essor MPI, Nord Entrep
 A partir de 1997, la société est basée à Wavrin (Nord) au n°16 Allée de la Clairière.
 
 Depuis 30 ans, l'entreprise se développe pour s'adapter aux mutations des marchés et des usages.
-SICADE répond aux besoins de ses clients et met à leur service toute son expertise. 
+SICADE répond aux besoins de ses clients et met à leur service toute son expertise.     
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Notre société SICADE met toute son expérience à votre service depuis plus de 30 ans, dans le domaine de la Métallerie et de la mécano-soudure.
+
+Nous intervenons principalement dans le Nord Pas-de-Calais, notamment autour de Lille.
+
+L'entreprise offre un savoir-faire reconnu qui permet de répondre de manière qualitative dans les meilleurs délais.
 
 SICADE accompagne principalement les professionnels (B to B), des secteurs publics et privés, pour tous projets de structures métalliques, et dans leur recherche de solutions pour l'amélioration continue de leurs process. 
 
 SICADE réalise tout type de projet sur mesure, du plus simple au plus complexe en acier, alu et inox. 
 
-Nous mettons au service de nos clients, notre savoir-faire artisanal, et des outils de haute technologie, et une équipe  d’ouvriers qualifiés ayant chacun une spécialité : tuyauteurs, soudeurs (TIG/MIG/MAG), chaudronniers, métalliers et serruriers.
+Nous mettons au service de nos clients, notre savoir-faire artisanal, des outils de haute technologie, et une équipe  d’ouvriers qualifiés ayant chacun une spécialité : tuyauteurs, soudeurs (TIG/MIG/MAG), chaudronniers, métalliers et serruriers.
 
-SICADE intervient si nécessaire sur site client, pour prendre en charge l’installation des réalisations.
+SICADE intervient également sur site client, pour prendre en charge l’installation des réalisations (démontage/montage), pour effectuer des modifications d'installations ou pour réaliser des opérations de maintenance. 
 
-Nous intervenons régulièrement dans les projets de rénovation, de réaménagement d'espace ou de restructuration de bâtiments, pricipalement dans la région des Hauts de France, et plus particulièrement dans la région Lilloise.
+Nous intervenons régulièrement dans les projets de rénovation, de réaménagement d'espace ou de restructuration de bâtiments.
+
+Nous réalisons sur mesure, à partir d'un plan ou d'un modèle, vos pièces métalliques, en petite,  moyennee, et grande série selon vos besoins.
 
 Engagé dans un processus d'amélioration continue, SICADE offre l'assurance de la rigueur, de la fiabilité et d’un excellent rapport qualité prix.
 
