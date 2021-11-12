@@ -49,7 +49,7 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Proximité : C'est pourquoi nous intervenons principalement dans la région des Hauts de France pour garantir une grande réactivité à nos clients"
+    - listItem : "Proximité : Nous souhaitons garantir une grande réactivité à nos clients, c'est pourquoi nous intervenons principalement en région Hauts de France"
     - listItem : "Ecoute : Parce que c'est notre client qui connait le mieux sa problématique, nos équipes de professionnels sont à son écoute, et sauront le conseiller"
     - listItem : "Esprit de Service : C'est sur ce point que nous essayons de nous distinguer le plus, le client doit pouvoir compter sur nous !"
     - listItem : "Rigueur : pour une grande qualité de service et la satisfaction de nos clients"
