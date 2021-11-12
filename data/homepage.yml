@@ -35,7 +35,7 @@ material:
     - title : "Pose des équipements sur site"
       image : "images/material/assemblage.png"
       content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent."      
-      
+
     # material item loop
     - title : "SAV"
       image : "images/material/sav.png"
@@ -54,7 +54,7 @@ advantage:
     - listItem : "Esprit de Service : C'est sur ce point que nous essayons de nous distinguer le plus, le client doit pouvoir compter sur nous !"
     - listItem : "Rigueur : pour une grande qualité de service et la satisfaction de nos clients"
     - listItem : "Expertise : Une expèrience de plus de 30 ans !"
-    - listItem : "Disponibilité : Choisissez un partenaire de qualité et disponible l’assurance de la qualité des services."
+    - listItem : "Disponibilité : Choisissez un partenaire de qualité et disponible"
     
 ########################## Testimonial ########################
 testimonial:
