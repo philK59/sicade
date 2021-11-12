@@ -85,7 +85,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Accueil"
 # Meta data
-description = "Métallerie Tôlerie Chaudronnerie - Lille - Conception et Réalisations de tous types d'équipements métalliques sur mesure Acier Inox Alu"
+description = "Métallerie Tôlerie Serrurerie - Lille - Conception et Réalisations de tous types d'équipements métalliques sur mesure Acier Inox Alu"
 author = "Phil K"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
