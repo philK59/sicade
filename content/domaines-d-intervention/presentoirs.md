@@ -46,4 +46,4 @@ images:
 * Mettre en avant des promotions et lancements de produits
 * Animer l'espace de vente
 
-##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin, Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous  vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services.
+##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin. Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous  vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services.
