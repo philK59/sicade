@@ -4,7 +4,7 @@ date: 2021-10-07T09:31:07+02:00
 draft: false
 
 # meta description
-description : "Mobilier et matériel en acier inoxydable pour les établissements de santé, les laboratoires"
+description : "Mobilier et matériel en acier inoxydable pour les établissements de santé, les laboratoires, les pharmacies"
 
 # Product Short Description
 shortDescription: "paillasse, table à instrument, panier, support sonde, armoire à pharmacie, rack, rayonnage, colonne de stockage, module de stockage, guéridon inox, marche pied, estrade, tige porte sérum, porte sonde, caisson, portique, plan de travail, bloc tiroir, rail, accessoires, tablette abattante, support mural, claustra"

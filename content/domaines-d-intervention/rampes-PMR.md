@@ -10,7 +10,7 @@ description : "Mise en accessibilité des établissements recevant du public, é
 shortDescription: "Rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, palier, plateforme, mobilier urbain" 
 
 #product ID
-productID: "1"
+productID: "2"
 
 # type must be "products"
 type: "domaines-d-intervention"

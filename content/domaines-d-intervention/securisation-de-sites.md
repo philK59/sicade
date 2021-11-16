@@ -10,7 +10,7 @@ description : "Nous sécurisons les sites sensibles avec nos fabrications galvan
 shortDescription: "Cloison grillagée, grille anti-effraction, grille de défense, barreaux de fenêtre, grillage, sas, cage, abri fumeurs, auvent, plateforme technique, tôle nervurée, treillis soudé, caillebotis, cartérisation, portillon, plateforme, escalier, garde corps, main courante, marches, protection, portique, butée"
 
 #product ID
-productID: "3"
+productID: "6"
 
 # type must be "products"
 type: "domaines-d-intervention"

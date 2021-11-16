@@ -1,0 +1,48 @@
+---
+title: "Presentoirs"
+date: 2021-11-16T10:17:34+01:00
+draft: false
+
+# meta description
+description: "Mobilier commercial sur mesure"
+
+# Product Short Description
+shortDescription: "présentoir, présentoir de sol, présentoir de comptoir, pupitre, socle, borne, PLV, mobilier retail, bergerie, testeur stocher, gondole, tête de gondole, corner, meuble de caisse, meuble linéaire"
+
+#product ID
+productID: "4"
+
+# type must be "products"
+type: "domaines-d-intervention"
+
+# product Images
+# first image will be shown in the product page
+images:
+  - image: "images/produits/presentoir1.png"
+  - image: "images/produits/presentoir2.png"
+  
+---
+
+#### service :
+* Conception, fabrication d'une série de supports mobiles en tôle acier, peinture thermolaquée époxy.
+
+#### client :
+* Grande marque de vêtement 
+
+#### challenge :
+* Réaliser un ensemble d'équipements mobile pour présenter les vêtements en magasin
+* Voir et toucher le produit
+* Stocker et présenter au mieux les produits pour optimiser les ventes
+* Impact visuel fort
+* Rentabiliser la surface de vente
+  
+#### solution :
+* Design sur mesure étudié selon cahier des charges client
+* Personnalisation de la marque et enseigne
+* Stucture modulaire et évolutive, pratique, fonctionnel, accessible et mobile
+* Disposés sur plusieurs niveaux, les produits sont rapidement identifiables grâce à une organisation catégorielle pertinente
+Composé de plusieurs niveaux de présentation pour plus de produits à disposition
+* Libre accès des produits
+* Mise en avant des promotions et lancements de produits, animation de l'espce de vente
+
+##### Optimisez l'impact de vos campagnes de communication, l'expèrience client de votre point de vente. mettez en valeur votre offre, améliorez l’attractivité globale de votre magasin, présentez de manière optimale vos produits avec nos solutions de mobilier commercial.Nous pouvons utiliser tous types de tôles, lisses ou perforées, le métal déployé... Nous vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services.

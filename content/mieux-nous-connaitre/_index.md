@@ -10,13 +10,12 @@ author: "Phil K"
 Implantée dans les Hauts de France, notre entreprise familiale et artisanale a été fondée en 1989 par Monsieur Bernard Cabotse, et reprise par son fils Philippe en 2004.
 
 Au départ, l'entreprise était dans des locaux situés au 165 avenue de Bretagne, où se trouve actuellement le site d'excellence EURATECHNOLOGIE.
-Très vite, grâce aux réseaux de Monsieur Cabotse (Club Essor MPI, Nord Entreprendre....), et à sa volonté de satisfaire ses clients, de grands groupes lui ont fait confiance comme, Auchan Logistique, STOW France, ou encore Chep France.   
+Très vite, grâce aux réseaux de Monsieur Cabotse (Club Essor MPI, Nord Entreprendre....), et à sa volonté de satisfaire ses clients, de grands groupes lui ont fait confiance comme, Auchan Logistique, STOW France, ou encore Chep France; Dès le départ sa volonté était de dynamiser l'économie locale en faisant travailler certains artisans locaux (ferroniers) et très petites entreprises en leur assurant un certain volume de chiffre d'affaire.    
 
 A partir de 1997, la société est basée à Wavrin (Nord) au n°16 Allée de la Clairière.
 
 Depuis 30 ans, l'entreprise se développe pour s'adapter aux mutations des marchés et des usages.
-SICADE répond aux besoins de ses clients et met à leur service toute son expertise.     
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+SICADE répond aux besoins de ses clients et met à leur service toute son expertise.
 
 Notre société SICADE met toute son expérience à votre service depuis plus de 30 ans, dans le domaine de la Métallerie et de la mécano-soudure.
 

@@ -10,7 +10,7 @@ description : "Remise en état des ouvrages métalliques des établissements cla
 shortDescription: "Portail, grille, escalier, porte"
 
 #product ID
-productID: "2"
+productID: "5"
 
 # type must be "products"
 type: "domaines-d-intervention"
