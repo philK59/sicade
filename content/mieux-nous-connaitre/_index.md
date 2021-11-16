@@ -35,6 +35,9 @@ Nous intervenons régulièrement dans les projets de rénovation, de réaménage
 
 Nous réalisons sur mesure, à partir d'un plan ou d'un modèle, vos pièces métalliques, en petite,  moyennee, et grande série selon vos besoins.
 
+SICADE met en avant l'Eco-conception au travers une Analyse du cycle de vie du produit pour un impact environnemental minimum.
+Concrètement, nous prescrivons des matières recyclées et recyclables (acier, bois lin) et veilllons à :
+réduire nos déchets de production, optimiser les transports, adapter l"équiement à sa durée de vie en magasin, réduire les consommations d’énergie.
 Engagé dans un processus d'amélioration continue, SICADE offre l'assurance de la rigueur, de la fiabilité et d’un excellent rapport qualité prix.
 
 

@@ -42,6 +42,7 @@ material:
       content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec vous"
 
 ########################### Advantage #########################
+
 advantage:
   enable : true
   title : "Nos Valeurs"
@@ -55,13 +56,7 @@ advantage:
     - listItem : "Rigueur : pour une grande qualité de service et la satisfaction de nos clients"
     - listItem : "Expertise : Sicade c'est un ensemble de compétences pluridisciplinaires permettant un accompagnement global, de la conception, à la maintenance, en passant par la mise en oeuvre"
     - listItem : "Disponibilité : Que ce soit pour la réalisation d'un devis avec prise de côtes sur le terrain, ou pour une intervention en urgence, nous trouverons le temps pour vous satisfaire"
-    - listItem : "Eco-conception : Analyse du cycle de vie du produit pour un impact environnemental minimum.
-      Prescription de matières recyclées et recyclables (acier, bois lin)
-      Réduction des déchets de production
-      Maximisation des transports
-      Adaptation de l'équipement à sa durée de vie en magasin
-      Réduction des consommations d’énergie
-          
+    
 ########################## Testimonial ########################
 testimonial:
   enable : true
@@ -93,4 +88,4 @@ testimonial:
       image : "images/clients/ensait.jpg" # size 100px*100px
       designation : "Responsable maintenance et patrimoine ENSAIT"
       content : "Trés satisfait de l'ensemble des prestations réalisées par SICADE"
-      rating : "four" # rating star, one to five
+      rating : "four" # rating star, one to five 
