@@ -7,7 +7,7 @@ draft: false
 description: "Mobilier commercial sur mesure"
 
 # Product Short Description
-shortDescription: "présentoir, présentoir de sol, présentoir de comptoir, pupitre, socle, borne, PLV, mobilier retail, bergerie, testeur stocher, gondole, tête de gondole, corner, meuble de caisse, meuble linéaire"
+shortDescription: "présentoir, présentoir de sol, présentoir de comptoir, pupitre, socle, borne, PLV, mobilier retail, bergerie, testeur stocker, gondole, tête de gondole, corner, meuble de caisse, meuble linéaire"
 
 #product ID
 productID: "4"
@@ -24,13 +24,13 @@ images:
 ---
 
 #### service :
-* Conception, fabrication d'une série de supports mobiles en tôle acier, peinture thermolaquée époxy.
+* Conception, fabrication d'une série de supports de vente en tôle acier, peinture thermolaquée époxy.
 
 #### client :
 * Grande marque de vêtement 
 
 #### challenge :
-* Réaliser un ensemble d'équipements mobile pour présenter les vêtements en magasin
+* Réaliser un ensemble d'équipements mobiles pour présenter les vêtements en magasin
 * Voir et toucher le produit
 * Stocker et présenter au mieux les produits pour optimiser les ventes
 * Impact visuel fort
@@ -38,11 +38,12 @@ images:
   
 #### solution :
 * Design sur mesure étudié selon cahier des charges client
-* Personnalisation de la marque et enseigne
-* Stucture modulaire et évolutive, pratique, fonctionnel, accessible et mobile
+* Personnalisation de la marque et de l'enseigne
+* Stucture modulaire, évolutive, pratique, fonctionnel et accessible
 * Disposés sur plusieurs niveaux, les produits sont rapidement identifiables grâce à une organisation catégorielle pertinente
-Composé de plusieurs niveaux de présentation pour plus de produits à disposition
-* Libre accès des produits
-* Mise en avant des promotions et lancements de produits, animation de l'espce de vente
+* Mettre un maximum de produits à disposition
+* Offrir un libre accès aux produits
+* Mettre en avant des promotions et lancements de produits
+* Animer l'espace de vente
 
-##### Optimisez l'impact de vos campagnes de communication, l'expèrience client de votre point de vente. mettez en valeur votre offre, améliorez l’attractivité globale de votre magasin, présentez de manière optimale vos produits avec nos solutions de mobilier commercial.Nous pouvons utiliser tous types de tôles, lisses ou perforées, le métal déployé... Nous vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services.
+##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin, Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous  vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services.
