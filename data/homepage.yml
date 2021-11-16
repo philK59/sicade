@@ -37,7 +37,7 @@ material:
       content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent."      
 
     # material item loop
-    - title : "SAV"
+    - title : "Support et maintenance"
       image : "images/material/sav.png"
       content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec vous"
 
@@ -53,8 +53,8 @@ advantage:
     - listItem : "Ecoute : Parce que c'est notre client qui connait le mieux sa problématique, nos équipes de professionnels sont à son écoute, et sauront le conseiller"
     - listItem : "Esprit de Service : C'est sur ce point que nous essayons de nous distinguer le plus, le client doit pouvoir compter sur nous !"
     - listItem : "Rigueur : pour une grande qualité de service et la satisfaction de nos clients"
-    - listItem : "Expertise : Une expèrience de plus de 30 ans !"
-    - listItem : "Disponibilité : Choisissez un partenaire de qualité et disponible"
+    - listItem : "Expertise : Sicade c'est un ensemble de compétences pluridisciplinaires permettant un accompagnement global, de la conception, à la maintenance, en passant par la mise en oeuvre"
+    - listItem : "Disponibilité : Que ce soit pour la réalisation d'un devis avec prise de côtes sur le terrain, ou pour une intervention en urgence, nous trouverons le temps pour vous satisfaire"
     
 ########################## Testimonial ########################
 testimonial:
