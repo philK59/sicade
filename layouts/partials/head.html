@@ -1,11 +1,11 @@
 <head>
   <meta charset="UTF-8">
-  <title>{{ .Title }}</title>
+  <title>SICADE | Métallerie, Tôlerie, Serrurerie | Lille | Hauts de France</title>
 
   {{ "<!-- Mobile Responsive Meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  <meta name="description" content="métallerie, tôlerie, serrurerie, chaudronnerie, fabricant, sous-traitance, atelier, mécano-soudure, métal, soudure, soudeur, découpe laser, presse plieuse, cisaille, acier, inox, alu, fabrication métallique, sur mesure, chariot, desserte, servante, table, pied, piètement, console, socle, panier, porte-sérum, retail, meuble commercial, meuble retail, présentoir, PLV, rampe d'accès PMR, protection, cloison grillagée, caillebotis, tôle pliée, poinçonnage, pliage, perçage, roulage, cintrage, montage, assemblage, maintenance, patrimoine, bâtiment, garde-corps, main courante, barrière, portillon, portail, plateforme, échelle à crinoline, escalier, marche, porte métallique, arceau, sabot, madrier, bastaing, sas, rayonnage, rack, signalétique, prototype, châssis, support, panneau, quai, butoir, UPN, platine, cadre, bac, régie, devis, facility management, musée, hospitalier, assistance, service, peinture époxy, thermolaquage, galvanisation à chaud, Lille, Hauts de France">
+  {{ with site.Params.author }}<meta name="author" content="Phil K">{{ end }}
   {{ hugo.Generator }}
 
   {{ "<!-- Plugins -->" | safeHTML }}

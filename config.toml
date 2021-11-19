@@ -38,19 +38,24 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.main]]
   name = "Mieux nous connaitre"
   URL = "mieux-nous-connaitre"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 4
   
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 5
 
   
   ############# footer menu #############
@@ -60,24 +65,29 @@ disqusShortname = ""
   weight = 1
 
   [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.footer]]
   name = "Mieux nous connaitre"
   URL = "mieux-nous-connaitre"
-  weight = 2
+  weight = 3
 
   [[menu.footer]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 4
 
   [[menu.footer]]
   name = "Mentions légales et Politique de Confidentialité"
   URL = "mentions-legales"
-  weight = 4
+  weight = 5
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 6
 
    
 #################### default parameters ################################

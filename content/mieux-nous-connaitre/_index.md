@@ -2,7 +2,7 @@
 title: "Mieux nous connaître"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "mieux nous connaitre"
 image: "images/local.jpg"
 author: "Phil K"
 ---
@@ -30,8 +30,7 @@ Nous intervenons régulièrement dans les projets de rénovation, de réaménage
 Nous réalisons des produits sur mesure, à partir d'un plan ou d'un modèle, en petite,  moyennee, et grande série selon vos besoins.
 
 SICADE met en avant l'Eco-conception au travers une Analyse du cycle de vie du produit pour un impact environnemental minimum.
-Concrètement, nous prescrivons des matières recyclées et recyclables (acier, bois lin) et veilllons à :
-réduire nos déchets de production, optimiser les transports, adapter l'équipement à sa durée de vie en magasin, réduire les consommations d’énergie.
+Concrètement, nous prescrivons des matières recyclées et recyclables (acier, bois, lin) et veilllons à réduire nos déchets de production, optimiser les transports, adapter l'équipement à sa durée de vie en magasin, réduire les consommations d’énergie.
 
 >Vous souhaitez améliorer vos conditions de production ?       
 >Mettre aux normes de sécurité et d'accessibilité vos locaux ? 

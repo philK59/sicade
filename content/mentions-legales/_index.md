@@ -2,7 +2,7 @@
 title: "Mentions légales et Politique de confidentialité"
 date: 2021-09-21T16:11:47+02:00
 draft: false
-description : "this is a meta description"
+description : "mentions légales"
 ---
 
 ### Mentions légales
