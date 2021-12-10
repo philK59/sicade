@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.sicade.com"
 languageCode = "fr-FR"
-title = "Métallerie Tôlerie Mécano soudure Serrurerie - LiLLE - Hauts de France"
+title = "SICADE|Métallerie Tôlerie Mécano soudure Serrurerie|LiLLE|Hauts de France"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -98,7 +98,7 @@ canonifyURLs = true
 logo = "images/logo.png"
 home = "Accueil"
 # Meta data
-description = "Métallerie Tôlerie Serrurerie - Lille - Conception et Réalisations de tous types d'équipements métalliques sur mesure Acier Inox Alu"
+description = "Conception et Réalisations de tous types d'équipements métalliques sur mesure Acier Inox Alu"
 author = "Phil K"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -110,7 +110,7 @@ googleAnalitycsID = "UA-80327718-1" # Your ID
 # Contact Information
 mobile = "0613439523"
 email = "contact@sicade.com"
-location = "Lille, France"
+location = "Lille, Hauts de france, France"
 # copyright
 copyright = "| Copyright &copy; 2021 [SARL SICADE](https://sicade.com) Tous Droits Réservés |"
 # Snipcart Credentials
