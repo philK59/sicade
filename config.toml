@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.sicade.com"
-languageCode = "fr"
+languageCode = "fr-FR"
 title = "Métallerie Tôlerie Mécano soudure Serrurerie - LiLLE - Hauts de France"
 theme = "hargo"
 summaryLength = "20"
