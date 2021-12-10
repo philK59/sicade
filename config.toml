@@ -7,6 +7,9 @@ summaryLength = "20"
 paginate = 10
 disqusShortname = ""
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 ############################# Plugins ##############################
 [params.plugins]
 
@@ -134,3 +137,7 @@ currencySymbol = "$"
   # Contact Form
   [params.contact]
   formAction = "#" # contact form works with Netlify.com
+
+
+
+  
