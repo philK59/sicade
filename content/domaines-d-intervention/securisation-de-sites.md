@@ -1,10 +1,10 @@
 ---
-title: "Sécurisation de Sites"
+title: "Métallerie de bâtiment Sécurisation de Sites"
 date: 2021-09-28T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Equipements pour la mise en sécurité des biens et des personnes"
+description : "Ensemble de protections pour la mise en sécurité des biens et des personnes"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : cloison grillagée, grille anti-effraction, cloison grillagée, abri fumeurs, auvent, plateforme caillebotis, protection"

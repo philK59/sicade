@@ -1,10 +1,10 @@
 ---
-title: "Agencement"
+title: "Métallerie Agencement"
 date: 2021-10-07T09:31:07+02:00
 draft: false
 
 # meta description
-description : "Mobilier et équipement en acier inoxydable pour le secteur hospitalier et laboratoires"
+description : "Equipement et accessoires pour le secteur hospitalier et les laboratoires"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : table, panier, caisson, support sonde, armoire à pharmacie, rack, rayonnage, guéridon inox, marche pied, tige porte sérum, portique, plan de travail, bloc tiroir, rail, tablette abattante, support mural, claustra, paravent"
