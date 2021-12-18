@@ -7,7 +7,7 @@ draft: false
 description : "Remise en état des ouvrages métalliques des établissements classés aux monuments historiques"
 
 # Product Short Description
-shortDescription: "Portail, grille, escalier, porte"
+shortDescription: "Exemple de réalisations : portail, grille, escalier, porte, garde-corps, barrière, décoration, garde corps, main courante, portillon, porte"
 
 #product ID
 productID: "5"

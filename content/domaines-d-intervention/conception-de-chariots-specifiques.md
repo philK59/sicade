@@ -4,10 +4,10 @@ date: 2021-09-29T12:08:59+02:00
 draft: false
 
 # meta description
-description : "Chariots modulables de service, de soins, de visite, d'urgence"
+description : "Chariots de service"
 
 # Product Short Description
-shortDescription: "Chariot médicaments, chariot de service, chariot de distribution petit déjeuner, chariot de soins, chariot archives, chariot porte dossiers, chariot de dispensation, chariot de visite, chariot d'anesthésie, chariot porte ordinateur, chariot informatique, chariot d'urgence, chariot de réanimation, chariot dyalise, armoire à sondes mobile, baquet roulant, plan de travail mobile, poste de cueillette mobile, paravent mobile, porte sabots mobile, rayonnage mobile, chariot roll, chariot porte-sacs, chariot de transport, panier de lavage"
+shortDescription: "Exemple de réalisations : chariot médicaments, chariot de distribution petit déjeuner, chariot de soins, chariot archives, chariot d'anesthésie, chariot porte ordinateur, chariot informatique, chariot d'urgence, chariot de réanimation, chariot dyalise, armoire à sondes mobile, baquet roulant, paravent mobile, chariot roll, chariot porte-sacs, chariot de transport"
 
 #product ID
 productID: "3"

@@ -7,7 +7,7 @@ draft: false
 description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisées"
 
 # Product Short Description
-shortDescription: "Cloison grillagée, grille anti-effraction, grille de défense, barreaux de fenêtre, grillage, sas, cage, abri fumeurs, auvent, plateforme technique, tôle nervurée, treillis soudé, caillebotis, cartérisation, portillon, plateforme, escalier, garde corps, main courante, marches, protection, portique, butée"
+shortDescription: "Exemple de réalisations : cloison grillagée, grille anti-effraction, cloison grillagée, abri fumeurs, auvent, plateforme caillebotis, protection"
 
 #product ID
 productID: "6"

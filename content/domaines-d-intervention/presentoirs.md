@@ -7,7 +7,7 @@ draft: false
 description: "Mobilier commercial sur mesure"
 
 # Product Short Description
-shortDescription: "présentoir, présentoir de sol, présentoir de comptoir, pupitre, socle, borne, PLV, mobilier retail, bergerie, testeur stocker, gondole, tête de gondole, corner, meuble de caisse, meuble linéaire"
+shortDescription: "Exemple de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"
 
 #product ID
 productID: "4"

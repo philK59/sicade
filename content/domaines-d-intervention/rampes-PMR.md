@@ -7,7 +7,7 @@ draft: false
 description : "Mise en accessibilité des établissements recevant du public, établissements privés et publics"
 
 # Product Short Description
-shortDescription: "Rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, palier, plateforme, mobilier urbain" 
+shortDescription: "Exemple de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, mobilier urbain" 
 
 #product ID
 productID: "2"
