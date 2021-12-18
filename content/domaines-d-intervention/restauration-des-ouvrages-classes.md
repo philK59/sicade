@@ -4,7 +4,7 @@ date: 2021-09-22T17:48:11+02:00
 draft: false
 
 # meta description
-description : "Remise en état des ouvrages métalliques des établissements classés aux monuments historiques"
+description : "Restauration d'ouvrages métalliques des établissements classés"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : portail, grille, escalier, porte, garde-corps, barrière, décoration, garde corps, main courante, portillon, porte"

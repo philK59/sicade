@@ -4,10 +4,10 @@ date: 2021-09-29T12:08:59+02:00
 draft: false
 
 # meta description
-description : "Chariots de service"
+description : "Chariots de service et de soins"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : chariot médicaments, chariot de distribution petit déjeuner, chariot de soins, chariot archives, chariot d'anesthésie, chariot porte ordinateur, chariot informatique, chariot d'urgence, chariot de réanimation, chariot dyalise, armoire à sondes mobile, baquet roulant, paravent mobile, chariot roll, chariot porte-sacs, chariot de transport"
+shortDescription: "Exemple de réalisations : chariot médicaments, chariot de distribution petit déjeuner, chariot de soins, chariot archives, chariot informatique, chariot roll, chariot porte-sacs"
 
 #product ID
 productID: "3"

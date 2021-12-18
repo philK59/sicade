@@ -4,13 +4,13 @@ date: 2021-09-28T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Nous sécurisons les sites sensibles avec nos fabrications galvanisées"
+description : "Equipements pour la mise en sécurité des biens et des personnes"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : cloison grillagée, grille anti-effraction, cloison grillagée, abri fumeurs, auvent, plateforme caillebotis, protection"
 
 #product ID
-productID: "6"
+productID: "4"
 
 # type must be "products"
 type: "domaines-d-intervention"

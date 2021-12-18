@@ -4,13 +4,13 @@ date: 2021-11-16T10:17:34+01:00
 draft: false
 
 # meta description
-description: "Mobilier commercial sur mesure"
+description: "Conception et réalisation de Mobilier commercial sur mesure"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"
 
 #product ID
-productID: "4"
+productID: "2"
 
 # type must be "products"
 type: "domaines-d-intervention"

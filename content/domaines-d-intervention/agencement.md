@@ -7,7 +7,7 @@ draft: false
 description : "Mobilier et équipement en acier inoxydable pour le secteur hospitalier et laboratoires"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : paillasse, table, panier, support sonde, armoire à pharmacie, rack, rayonnage, colonne de stockage, module, guéridon inox, marche pied, tige porte sérum, caisson, portique, plan de travail, bloc tiroir, rail, accessoires, tablette abattante, support mural, claustra"
+shortDescription: "Exemple de réalisations : table, panier, caisson, support sonde, armoire à pharmacie, rack, rayonnage, guéridon inox, marche pied, tige porte sérum, portique, plan de travail, bloc tiroir, rail, tablette abattante, support mural, claustra, paravent"
 
 #product ID
 productID: "1"
@@ -38,5 +38,4 @@ images:
 * Coordination du chantier avec le service ingénieurie travaux du client
 * Pose des équipements par nos techniciens sans créer de gêne pour le personnel et pour les autres corps de métier présents dans les locaux
 
-##### Les responsables techniques nous sollicitent régulièrement pour trouver des solutions d'agencement qu'ils ne trouvent pas dans les catalogues ou sur les sites internet. Nous sommes amenés à conçevoir et à réaliser des équipements spécifiques qui répondent aux éxigences de nos clients en terme de qualité et de prix. Ces équipements sont souvent uniques et sont développés par notre bureau d'étude avec les services recherche et développement de nos clients. Nous intervenons dans les différents secteurs hospitaliers pour la gestion des stocks, l' agencement de pharmacie, l' équipement de service... 
-
+##### Les responsables techniques nous sollicitent régulièrement pour trouver des solutions d'agencement qu'ils ne trouvent pas dans les catalogues ou sur les sites internet. SICADE réalise des équipements spécifiques qui répondent aux éxigences de ses clients en terme de qualité et de prix. Ces produits sont souvent uniques.
