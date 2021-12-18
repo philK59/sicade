@@ -1,6 +1,6 @@
 ---
-title: "Presentoirs métalliques peinture époxy"
-date: 2021-12-16T10:17:34+01:00
+title: "Presentoirs métalliques thermolaqués époxy"
+date: 2021-12-18T10:17:34+01:00
 draft: false
 
 # meta description
@@ -10,7 +10,7 @@ description: "Conception et réalisation de Mobilier Commercial sur mesure"
 shortDescription: "Exemple de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"
 
 #product ID
-productID: "2"
+productID: "3"
 
 # type must be "products"
 type: "domaines-d-intervention"

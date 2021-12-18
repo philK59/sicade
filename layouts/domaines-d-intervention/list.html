@@ -16,8 +16,10 @@
           <div class="card-body">
             <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
             <p>{{ .Params.Description }}</p>
+            <div class="mb-4">
+                           
+            </div>
             
-           
           </div>
         </div>
       </div>
@@ -25,7 +27,6 @@
     </div>
   </div>
 </section>
-
 {{ partial "cta.html" . }}
 
 {{ end }}

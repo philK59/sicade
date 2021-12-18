@@ -1,6 +1,6 @@
 ---
-title: "Métallerie de bâtiment Sécurisation de Sites"
-date: 2021-12-28T19:20:30+02:00
+title: "Mise aux Normes Sécurisation de Sites"
+date: 2021-12-17T19:20:30+02:00
 draft: false
 
 # meta description
@@ -10,7 +10,7 @@ description : "Ensemble de protections pour la mise en sécurité des biens et d
 shortDescription: "Exemple de réalisations : cloison grillagée, grille anti-effraction, cloison grillagée, abri fumeurs, auvent, plateforme caillebotis, protection"
 
 #product ID
-productID: "4"
+productID: "6"
 
 # type must be "products"
 type: "domaines-d-intervention"

@@ -1,6 +1,6 @@
 ---
-title: "Fabrication de Rampes d'accès PMR"
-date: 2021-12-22T17:10:31+02:00
+title: "Rampes d'accès PMR"
+date: 2021-12-17T17:10:31+02:00
 draft: false
 
 # meta description
@@ -10,7 +10,7 @@ description : "Mise en accessibilité des ERP"
 shortDescription: "Exemple de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, mobilier urbain" 
 
 #product ID
-productID: "6"
+productID: "4"
 
 # type must be "products"
 type: "domaines-d-intervention"

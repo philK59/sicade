@@ -1,6 +1,6 @@
 ---
-title: "Conception de Chariots Spécifiques"
-date: 2021-12-29T12:08:59+02:00
+title: "Conception Fabrication chariots inox spécifiques"
+date: 2021-12-18T12:08:59+02:00
 draft: false
 
 # meta description
@@ -10,7 +10,7 @@ description : "Chariots de service et de soins"
 shortDescription: "Exemple de réalisations : chariot médicaments, chariot de distribution petit déjeuner, chariot de soins, chariot archives, chariot informatique, chariot roll, chariot porte-sacs"
 
 #product ID
-productID: "3"
+productID: "2"
 
 # type must be "products"
 type: "domaines-d-intervention"
