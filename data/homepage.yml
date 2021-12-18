@@ -2,15 +2,15 @@
 banner:
   enable : true
   title : "Métallerie SICADE: Nous fabriquons pour vous !"
-  content : "...dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
+  content : "... dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
   des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
   image : "images/soudeur.jpg" 
 
 ########################## About ##############################
 about:
   enable : true
-  title : "Découpe laser, Cisaillage, Poinçonnage, Pliage, Roulage, Cintrage, Soudure, Traitement de surface"
-  content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit sur mesure en acier, alu, inox"
+  title : "Un atelier de métallerie à votre disposition"
+  content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit : Découpe laser, Cisaillage, Poinçonnage, Pliage, Roulage, Cintrage, Soudure, Traitement de surface"
   image : "images/assistance.png"
 
 
@@ -21,18 +21,18 @@ material:
   subtitle : "Un Service Global"
   materialItem:
     # material item loop
-    - title : "Conception"
+    - title : "Conception et création de produits métalliques "
       image : "images/material/surmesure.png"
       content : "En amont du projet, le bureau d’étude vous conseille et vous apporte toute son expertise.
       Votre projet est conceptualisé pour vous donner un aperçu du rendu final. Parce que le sur-mesure exige rigueur et concertation, SICADE s’implique au maximum avec son client, en favorisant l’accompagnement et le suivi dans la construction d’un service de qualité"
       
     # material item loop
-    - title : "Réalisations Sur Mesure"
+    - title : "Fabrication d'équipement en acier inox alu sur mesure en nos ateliers de métallerie"
       image : "images/material/fabrication.png"
       content : "Nous proposons des services entièrement personnalisables et sur mesure, réalisations en fonction de vos souhaits, en respectant les délais de fabrication et les réglementations en vigueur"
 
     # material item loop
-    - title : "Pose des équipements sur site"
+    - title : "Montage Pose des équipements sur site"
       image : "images/material/assemblage.png"
       content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent."      
 

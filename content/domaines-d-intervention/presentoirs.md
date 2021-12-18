@@ -1,10 +1,10 @@
 ---
-title: "Presentoirs métalliques"
-date: 2021-11-16T10:17:34+01:00
+title: "Presentoirs métalliques peinture époxy"
+date: 2021-12-16T10:17:34+01:00
 draft: false
 
 # meta description
-description: "Conception et réalisation de Mobilier commercial sur mesure"
+description: "Conception et réalisation de Mobilier Commercial sur mesure"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"
@@ -46,4 +46,4 @@ images:
 * Mettre en avant des promotions et lancements de produits
 * Animer l'espace de vente
 
-##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin. Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous  vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services.
+##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin. Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous  vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services
