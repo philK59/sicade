@@ -8,7 +8,7 @@ author: "Phil K"
 ---
 
 Nos clients peuvent compter sur nous, en cas de besoin urgent, pour poser une serrure, débloquer un portail rapidement...
-Dans cette vidéo nous réalisons une dizaine de cadres en urgence réalisés à partir de tôles pliées grâce à la presse plieuse, équipement indispensable pour un atelier de métallerie.
+Dans cette vidéo nous réalisons une dizaine de cadres en urgence en tôles pliées grâce à la presse plieuse, équipement indispensable pour un atelier de métallerie.
 
  {{< rawhtml >}} 
 
