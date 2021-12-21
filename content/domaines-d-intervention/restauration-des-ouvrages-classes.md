@@ -18,10 +18,10 @@ type: "domaines-d-intervention"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/produits/produit-1.png"
-  - image: "images/produits/produit-2.png"
-  - image: "images/produits/produit-3.png"
-  - image: "images/produits/produit-4.png"
+  - image: "images/produits/grille.png"
+  - image: "images/produits/porte.png"
+  - image: "images/produits/portail.png"
+  - image: "images/produits/paumelle.png"
 ---
 
 #### service :

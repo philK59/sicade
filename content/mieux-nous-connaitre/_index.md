@@ -43,5 +43,5 @@ Valoriser vos produits et services ?
 
  | | 
 --- | --- | ---
-![Example image](/images/perceuse.png) | ![Example image](/images/soudeur2.jpg) | ![Example image](/images/meuleuse.jpg) 
- ![Example image](/images/atelier.png)| ![Example image](/images/rolls.jpg) | ![Example image](/images/atelier2.png)
+![Example image](/images/perceuse.png) | ![Example image](/images/soudure.jpg) | ![Example image](/images/meuleuse.png) 
+ ![Example image](/images/trappe.png)| ![Example image](/images/rolls.jpg) | ![Example image](/images/pied-de-table.png)

@@ -3,7 +3,7 @@ title: "Sicade : Une Entreprise de Service avant tout !"
 date: 2021-12-04T11:22:16+06:00
 draft: false
 description : "entreprise de service"
-image: "images/blog/post-1.jpg"
+image: "images/blog/cisaille.jpg"
 author: "Phil K"
 ---
 

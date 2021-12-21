@@ -22,7 +22,7 @@ material:
   materialItem:
     # material item loop
     - title : "Conception et création de produits métalliques "
-      image : "images/material/surmesure.png"
+      image : "images/material/sur-mesure.png"
       content : "En amont du projet, le bureau d’étude vous conseille et vous apporte toute son expertise.
       Votre projet est conceptualisé pour vous donner un aperçu du rendu final. Parce que le sur-mesure exige rigueur et concertation, SICADE s’implique au maximum avec son client, en favorisant l’accompagnement et le suivi dans la construction d’un service de qualité"
       
@@ -47,7 +47,7 @@ advantage:
   enable : true
   title : "Nos Valeurs"
   subtitle : "La réalisation d'un service de qualité exige un certain nombre de valeurs"
-  image : "images/advantage.png"
+  image : "images/expert.png"
   advantageList:
     # advantage list loop
     - listItem : "Proximité : Nous souhaitons garantir une grande réactivité à nos clients, c'est pourquoi nous intervenons principalement en région Hauts de France pour les opérations exigeant une intervention de nos équipes sur le terrain"
@@ -64,28 +64,28 @@ testimonial:
   testimonialItem:
     # testimonial item loop
     - name : "Willy H."
-      image : "images/clients/bodycote.jpg" # size 100px*100px
+      image : "images/clients/bodycote-douvrin.jpg" # size 100px*100px
       designation : "Responsable maintenance Bodycote Billy Bercleau"
       content : "Sicade nous a toujours trouvé des solutions dimensionnées à nos problématiques dans des délais très courts"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Vincent R."
-      image : "images/clients/chulille.png" # size 100px*100px
+      image : "images/clients/chu-lille.png" # size 100px*100px
       designation : "Responsable technique et patrimoine Faculté de Médecine Lille"
       content : "La sarl SICADE nous accompagne régulièrement dans nos recherches de solutions de sécurité pour l'ensemble de nos bâtiments"
       rating : "four" # rating star, one to five
       
     # testimonial item loop
     - name : "Eric B."
-      image : "images/clients/onera.png" # size 100px*100px
+      image : "images/clients/onera-lille.png" # size 100px*100px
       designation : "Responsable technique Grands équipements ONERA Lille"
       content : "Les équipes SICADE sont fiables, respectueuses de la sécurité sur le terrain"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Pierre J."
-      image : "images/clients/ensait.jpg" # size 100px*100px
+      image : "images/clients/ensait-roubaix.jpg" # size 100px*100px
       designation : "Responsable maintenance et patrimoine ENSAIT Roubaix"
       content : "Trés satisfait de l'ensemble des prestations réalisées par SICADE"
       rating : "four" # rating star, one to five 

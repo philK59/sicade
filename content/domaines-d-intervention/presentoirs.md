@@ -18,8 +18,8 @@ type: "domaines-d-intervention"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/produits/presentoir1.png"
-  - image: "images/produits/presentoir2.png"
+  - image: "images/produits/presentoir.png"
+  - image: "images/produits/gondole.png"
   
 ---
 
