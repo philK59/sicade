@@ -1,4 +1,0 @@
-Use-agent: *
-Allow: /
-
-Sitemap: https://www.sicade.com/sitemap.xml
