@@ -138,6 +138,9 @@ currencySymbol = "$"
   [params.contact]
   formAction = "#" # contact form works with Netlify.com
 
-
+  [sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
   
