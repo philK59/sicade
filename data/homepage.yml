@@ -34,12 +34,12 @@ material:
     # material item loop
     - title : "Montage Pose des équipements sur site"
       image : "images/material/assemblage.png"
-      content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent."      
+      content : "Nous mettons à votre service une équipe de poseurs expérimentés, pour installer votre équipement sur site, en tenant compte des règles et des précautions qui s’imposent. Nous pouvons prévoir une nacelle et autres engins de levage si nécessaire"      
 
     # material item loop
     - title : "Support et maintenance"
       image : "images/material/sav.png"
-      content : "Nous garantissons un suivi efficace de vos installations et souhaitons instaurer une relation de confiance à long terme avec vous"
+      content : "Nous assistons les établissements à réaliser, normativement et qualitativement, un ensemble de prestations, par l'externalisation partielle de leur maintenance curative, dans une maîtrise des coûts, afin d'assurer la sécurité des utilisateurs des biens : réparation ou remplacement de pièces détachées. La maintenance peut être réalisée sur site ou en notre atelier"
 
 ########################### Advantage #########################
 

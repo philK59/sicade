@@ -9,10 +9,6 @@ disqusShortname = ""
 
 enableRobotsTXT = true
 canonifyURLs = true
-sitemap:
-  changefreq: monthly
-  filename: sitemap.xml
-  priority: 0.5
 
 ############################# Plugins ##############################
 [params.plugins]
