@@ -7,8 +7,8 @@ summaryLength = "20"
 paginate = 10
 disqusShortname = ""
 
-enableRobotsTXT = true
-canonifyURLs = true
+
+
 
 ############################# Plugins ##############################
 [params.plugins]
