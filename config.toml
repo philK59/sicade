@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://www.sicade.com/"
 languageCode = "fr-FR"
 title = "SICADE | Métallerie Tôlerie Mécano soudure Serrurerie | LiLLE | Hauts de France"
 theme = "hargo"
