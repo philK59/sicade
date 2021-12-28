@@ -27,9 +27,9 @@ material:
       Votre projet est conceptualisé pour vous donner un aperçu du rendu final. Parce que le sur-mesure exige rigueur et concertation, SICADE s’implique au maximum avec son client, en favorisant l’accompagnement et le suivi dans la construction d’un service de qualité"
       
     # material item loop
-    - title : "Fabrication d'équipement en acier inox alu sur mesure en nos ateliers de métallerie"
+    - title : "Fabrication d'équipement sur mesure en acier inox alu sur mesure"
       image : "images/material/fabrication.png"
-      content : "Nous proposons des services entièrement personnalisables et sur mesure, réalisations en fonction de vos souhaits, en respectant les délais de fabrication et les réglementations en vigueur"
+      content : "Nous proposons des services entièrement personnalisables, réalisations en fonction de vos souhaits, en respectant les délais de fabrication et les réglementations en vigueur"
 
     # material item loop
     - title : "Montage Pose des équipements sur site"
