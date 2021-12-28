@@ -1,14 +1,13 @@
 ---
-title: "Sicade : Une Entreprise de Service avant tout !"
+title: "Sicade : Nous fabriquons pour Vous !"
 date: 2021-12-04T11:22:16+06:00
 draft: false
-description : "entreprise de service"
+description : "fabrication d'équipements métalliques spécifiques"
 image: "images/blog/cisaille.jpg"
 author: "Phil K"
 ---
 
-Nos clients peuvent compter sur nous, en cas de besoin urgent, pour poser une serrure, débloquer un portail rapidement...
-Dans cette vidéo nous réalisons une dizaine de cadres en urgence en tôles pliées grâce à la presse plieuse, équipement indispensable pour un atelier de métallerie.
+Dans cette vidéo nous réalisons une dizaine de cadres en tôles pliées grâce à la presse plieuse, équipement indispensable pour un atelier de métallerie.
 
  {{< rawhtml >}} 
 
