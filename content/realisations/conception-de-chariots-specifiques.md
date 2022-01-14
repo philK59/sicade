@@ -45,7 +45,7 @@ Nous commercialisons également des chariots standards.
 
 Des accessoires peuvent être ajoutés aux chariots comme un tiroir, un plateau, un bac, un porte gobelets, un panier, un portique, une boîte, une étagère, une tablette, une poignée, un porte-poubelle, un panier de rangement, une cloison  
 
-##### AUTRES EXEMPLES DE FABRICATION :
+##### AUTRES EXEMPLES DE FABRICATIONS :
 
 |SUPPORT FUT|ARMOIRES|PLATEAUX|SALLE BLANCHE|SUPPORTS DE TUYAU|TABLES|
 |---|---|---|---|---|---|
