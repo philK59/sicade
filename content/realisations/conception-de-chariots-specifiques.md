@@ -30,7 +30,7 @@ images:
 #### client: 
 * Industrie pharmaceutique 
 #### challenge :
-* Hygiène : Evite toute coupure lors du nettoyage 
+* Hygiène : Eviter toute coupure lors du nettoyage 
 * Sécurité : Etudier pour évoluer dans un espace réduit 
 * Ergonomie : Poids et dimensions des structures optimisés
   
@@ -43,6 +43,8 @@ Ils sont soudés au TIG pour une grande solidité et réalisés suivant les Bonn
 SICADE est spécialisé dans la fabrication de chariots de transport et accessoires en inox aux dimensions spécifiques pour les salles blanches pharmaceutiques, et l'industrie des biotechnologies. 
 Nous commercialisons également des chariots standards.
 
+Des accessoires peuvent être ajoutés aux chariots comme un tiroir, un plateau, un bac, un porte gobelets, un panier, un portique, une boîte, une étagère, une tablette, une poignée, un porte-poubelle, un panier de rangement, une cloison  
+
 ##### AUTRES EXEMPLES DE FABRICATION :
 
 |SUPPORT FUT|ARMOIRES|PLATEAUX|SALLE BLANCHE|SUPPORTS DE TUYAU|TABLES|
@@ -51,5 +53,4 @@ Nous commercialisons également des chariots standards.
 |![Example image](/images/produits/support-fut.jpg)|![Example image](/images/produits/armoire-de-rangement.jpg)|![Example image](/images/produits/plateau.jpg)|![Example image](/images/produits/salle-blanche.jpg)|![Example image](/images/produits/support-tuyau.jpg)|![Example image](/images/produits/table.jpg)|
 |---|---|---|---|---|---|
 
-Des accessoires peuvent être ajoutés aux chariots comme un tiroir, un plateau, un bac, un porte gobelets, un panier, un portique, une boîte, une étagère, une tablette, une poignée, un porte-poubelle, un panier de rangement, une cloison  
 
