@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.sicade.com/"
 languageCode = "fr-FR"
-title = "SICADE | Métallerie Tôlerie Mécano soudure Serrurerie | LiLLE | Hauts de France"
+title = "SICADE | Métallerie Tôlerie fine | Mécano soudure | LiLLE | Hauts de France"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -33,8 +33,8 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Domaines d'intervention"
-  URL = "domaines-d-intervention"
+  name = "Réalisations"
+  URL = "realisations"
   weight = 1
 
   [[menu.main]]
@@ -43,8 +43,8 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "Mieux nous connaitre"
-  URL = "mieux-nous-connaitre"
+  name = "Notre Histoire"
+  URL = "notre-histoire"
   weight = 3
 
   [[menu.main]]
@@ -57,11 +57,10 @@ disqusShortname = ""
   URL = "contact"
   weight = 5
 
-  
   ############# footer menu #############
   [[menu.footer]]
-  name = "Domaines d'intervention"
-  URL = "domaines-d-intervention"
+  name = "Réalisations"
+  URL = "realisations"
   weight = 1
 
   [[menu.footer]]
@@ -70,8 +69,8 @@ disqusShortname = ""
   weight = 2
 
   [[menu.footer]]
-  name = "Mieux nous connaitre"
-  URL = "mieux-nous-connaitre"
+  name = "Notre Histoire"
+  URL = "notre-histoire"
   weight = 3
 
   [[menu.footer]]
@@ -88,7 +87,6 @@ disqusShortname = ""
   name = "Contact"
   URL = "contact"
   weight = 6
-
    
 #################### default parameters ################################
 [params]
@@ -109,7 +107,7 @@ mobile = "0613439523"
 email = "contact@sicade.com"
 location = "Lille, Hauts de france, Nord, 59, France"
 # copyright
-copyright = "| Copyright &copy; 2021 [SARL SICADE](https://sicade.com) Tous Droits Réservés |"
+copyright = "| Copyright &copy; 2022 [SARL SICADE](https://sicade.com) Tous Droits Réservés |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"

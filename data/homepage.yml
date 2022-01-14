@@ -5,6 +5,12 @@ banner:
   content : "... dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
   des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
   image : "images/soudeur.jpg" 
+  # button
+  button:
+    enable : true
+    label : "Toutes les réalisations"
+    link : "realisations"
+  
 
 ########################## About ##############################
 about:
@@ -12,6 +18,18 @@ about:
   title : "Un atelier de métallerie à votre disposition"
   content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit : Découpe laser, Cisaillage, Poinçonnage, Pliage, Roulage, Cintrage, Soudure, Traitement de surface"
   image : "images/assistance.png"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Contactez-nous, développez vos idées de réalisations"
+  content : "Pofitez de notre expérience en matière de Fabrications Métalliques Spécifiques"
+  image : "images/cta.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "Toutes les Réalisations"
+    link : "realisations"  
 
 
 ######################## raw material #######################
@@ -27,7 +45,7 @@ material:
       Votre projet est conceptualisé pour vous donner un aperçu du rendu final. Parce que le sur-mesure exige rigueur et concertation, SICADE s’implique au maximum avec son client, en favorisant l’accompagnement et le suivi dans la construction d’un service de qualité"
       
     # material item loop
-    - title : "Fabrication d'équipement sur mesure en acier inox alu sur mesure"
+    - title : "Fabrication d'équipement sur mesure en acier inox alu"
       image : "images/material/fabrication.png"
       content : "Nous proposons des services entièrement personnalisables, réalisations en fonction de vos souhaits, en respectant les délais de fabrication et les réglementations en vigueur"
 

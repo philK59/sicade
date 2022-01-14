@@ -13,12 +13,12 @@
       </div>
       <div class="col-lg-4">
         <div class="sticky-top top-100">
-        <h3 class="mb-4">Poser Votre Question</h3>
+        <h3 class="mb-4">Posez Votre Question</h3>
         <form action="{{ site.Params.contact.formAction }}" method="POST">
-          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Votre Nom">
-          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Votre Email">
-          <textarea name="message" id="message" class="form-control mb-2" placeholder="Votre Message"></textarea>
-          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Envoyez maintenant</button>
+          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
+          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
+          <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Envoyez Maintenant</button>
         </form>
       </div></div>
       {{ with site.Data.faq}}
@@ -35,10 +35,10 @@
                 <span>{{ .title | markdownify }}</span> <div class="ml-3"><i class="ti-plus h6 text-primary text-right border p-2 d-inline-block border-primary"></i></div>
               </a>
             </div>
-          <div id="collapse{{$.Scratch.Get `counter`}}" class="collapse" data-parent="#accordion">
-            <div class="card-body p-2 font-secondary text-color">{{ .content | markdownify }}</div>
+            <div id="collapse{{$.Scratch.Get `counter`}}" class="collapse" data-parent="#accordion">
+              <div class="card-body p-2 font-secondary text-color">{{ .content | markdownify }}</div>
+            </div>
           </div>
-        </div>
           {{ end }}
         </div>
       </div>
@@ -47,5 +47,7 @@
   </div>
 </section>
 {{ end }}
+
+{{ partial "cta.html" . }}
 
 {{ end }}
