@@ -40,10 +40,9 @@ images:
 Nos équipements sont fabriqués en inox de type 316 qui offre la meilleure protection contre la corrosion.
 Ils sont soudés au TIG pour une grande solidité et réalisés suivant les Bonnes Pratiques de Fabrication..
 
-SICADE est spécialisé dans la fabrication de chariots de transport et accessoires en inox aux dimensions spécifiques pour les salles blanches pharmaceutiques, et l'industrie des biotechnologies. 
-Nous commercialisons également des chariots standards.
+Nous disposons d'un grand choix de chariots standards que nous pouvons modifier pour suivre vos specifications.
 
-Des accessoires peuvent être ajoutés aux chariots comme un tiroir, un plateau, un bac, un porte gobelets, un panier, un portique, une boîte, une étagère, une tablette, une poignée, un porte-poubelle, un panier de rangement, une cloison  
+De nombreux accessoires peuvent être ajoutés aux chariots comme un tiroir, un plateau, un bac, un porte gobelets, un panier, un portique, une boîte, une étagère, une tablette, une poignée, un porte-poubelle, un panier de rangement, une cloison.  
 
 ##### AUTRES EXEMPLES DE FABRICATIONS :
 
