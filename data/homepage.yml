@@ -57,7 +57,7 @@ material:
     # material item loop
     - title : "Support et maintenance"
       image : "images/material/sav.png"
-      content : "Nous assistons les établissements à réaliser, normativement et qualitativement, un ensemble de prestations, par l'externalisation partielle de leur maintenance curative, dans une maîtrise des coûts, afin d'assurer la sécurité des utilisateurs des biens : réparation ou remplacement de pièces détachées. La maintenance peut être réalisée sur site ou en notre atelier"
+      content : "Nous assistons les établissements à réaliser, normativement et qualitativement, un ensemble de prestations, par l'externalisation partielle de leur maintenance curative, dans une maîtrise des coûts, afin d'assurer la sécurité des utilisateurs des biens"
 
 ########################### Advantage #########################
 
