@@ -1,10 +1,10 @@
 ---
-title: "Agencement de salle"
+title: "Agencement de salle blanche et pharmacie"
 date: 2021-12-18T09:31:07+02:00
 draft: false
 
 # meta description
-description : "Equipement et accessoires pour le secteur hospitalier et les laboratoires"
+description : "Secteur hospitalier et laboratoires"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : table, panier, caisson, support sonde, armoire à pharmacie, rack, rayonnage, guéridon inox, marche pied, tige porte sérum, portique, plan de travail, bloc tiroir, rail, tablette abattante, support mural, claustra, paravent"
