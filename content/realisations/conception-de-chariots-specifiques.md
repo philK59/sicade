@@ -53,5 +53,5 @@ Des accessoires peuvent être ajoutés aux chariots comme un tiroir, un plateau,
 |![Example image](/images/produits/support-fut.jpg)|![Example image](/images/produits/armoire-de-rangement.jpg)|![Example image](/images/produits/plateau.jpg)|![Example image](/images/produits/salle-blanche.jpg)|![Example image](/images/produits/support-tuyau.jpg)|![Example image](/images/produits/table.jpg)|
 |---|---|---|---|---|---|
 
-|![Example image](/images/produits/gerbeur.png)|Nous réalisons des équipements ergonomiques pour les industries pharmaceutiques et biotech. Préservez le capital santé de vos salariés ! Contactez-nous pour profiter de l'ensemble de nos solutions ! Ici il s'agit d'un gerbeur inox mécanique pour charger des bobines dans une conditionneuse| 
+|![Example image](/images/produits/gerbeur.png)|Nous réalisons des équipements de manutention ergonomiques pour les industries pharmaceutiques et biotech. Préservez le capital santé de vos salariés ! Contactez-nous pour profiter de l'ensemble de nos AIDES TECHNIQUES ! Exemple de solutions : gerbeur pour bobines, plan de travail réglable en hauteur, table élévatrice en inox. | 
 |---|---|
