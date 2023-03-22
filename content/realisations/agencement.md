@@ -1,13 +1,13 @@
 ---
-title: "Agencement de salle blanche et pharmacie"
+title: "Agencement imagerie, IRM"
 date: 2021-12-18T09:31:07+02:00
 draft: false
 
 # meta description
-description : "Secteur hospitalier et laboratoires"
+description : "Secteur hospitalier et santé"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : table, panier, caisson, support sonde, armoire à pharmacie, rack, rayonnage, guéridon inox, marche pied, tige porte sérum, portique, plan de travail, bloc tiroir, rail, tablette abattante, support mural, claustra, paravent"
+shortDescription: "Exemple de réalisations : fauteuil roulant amagnétique, fauteuil de transfert amagnétique, brancard amagnétique, mobilier amagnétique, tabouret amagnétique, porte-sérum amagnétique, marche-pied amagnétique, chariot amagnétique, guéridon amagnétique, poubelle amagnétique, paillasse, panier, caisson, support sonde, armoire à pharmacie, rack, rayonnage, guéridon inox, marche pied, portique, plan de travail, tiroir, rail, tablette abattante, support mural, claustra, paravent plombé, support mural pour tabliers plombés, BA 13 plombé,  "
 
 #product ID
 productID: "1"
