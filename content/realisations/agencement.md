@@ -1,5 +1,5 @@
 ---
-title: "Agencement imagerie, IRM"
+title: "Agencement salle IRM, mobilier modulaire sur mesure"
 date: 2021-12-18T09:31:07+02:00
 draft: false
 
@@ -19,9 +19,9 @@ type: "realisations"
 # first image will be shown in the product page
 images:
   - image: "images/produits/fauteuil.png"
-  - image: "images/produits/plinthe.png"
-  - image: "images/produits/barreaux-fenetre.png"
-  - image: "images/produits/table-inox.png"
+  - image: "images/produits/chariot-d-hygiene.png"
+  - image: "images/produits/chariot-de-soins.png"
+  - image: "images/produits/chariot-medicaments.png"
 ---
 
 #### service :
