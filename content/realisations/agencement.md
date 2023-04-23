@@ -18,10 +18,8 @@ type: "realisations"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/produits/fauteuil.png"
   - image: "images/produits/chariot-d-hygiene.png"
-  - image: "images/produits/chariot-de-soins.png"
-  - image: "images/produits/chariot-medicaments.png"
+  
 ---
 
 #### service :
