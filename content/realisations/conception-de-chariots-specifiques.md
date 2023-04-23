@@ -24,7 +24,17 @@ Rolls pour clayettes en inox, Servante en inox, Socle en inox, Support bottes en
 Support mural en inox, Support sabots de laborantins en inox, Table en inox avec évier,
 Table d'autopsie en inox, Table élévatrice en inox, Table de pesée en inox, Table de travail en inox,
 Table informatique en inox, Tablette murale rabattable en inox, Table roulante en inox,
-Tabouret en inox"
+Tabouret en inox, Aménagement de laboratoires pour l'industrie pharmaceutique,
+Aménagement de locaux pour accès aux salles propres, Ensembles pour laveries de laboratoire,
+Agencement de locaux pour process de fabrication, Equipements pour locaux collectifs,
+Amélioration de l'ergonomie, Butoir en inox, Caillebotis en inox, Caniveaux en inox,
+Équipements en inox pour laveries de laboratoire, Équipements en inox pour vestiaires,
+Escalier en inox, Estrade en inox, Garde-corps en inox, Habillage de cloisons en inox,
+Habillage de mobilier en inox, Passerelle en inox, Plinthes en inox, Protections au sol en inox,
+Protection murale en inox, Protection tubulaire en inox, Puisard en inox, Rambarde en inox, 
+Unité de lavage en inox, Vestiaires d'habillage en inox,, Zone de lavage en inox, Zone de pesée en inox"
+
+
 
 #product ID
 productID: "2"
