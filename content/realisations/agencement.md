@@ -19,21 +19,10 @@ type: "realisations"
 # first image will be shown in the product page
 images:
   - image: "images/produits/chariot-d-hygiene.png"
-  
+  - image: "images/produits/fauteuil.png"
 ---
 
 #### service :
-* Conception, fabrication d'équipements spécifiques pour le secteur de la santé  
+* Conception, fabrication d'équipements spécifiques pour les salles IRM 
 
-#### client :
-* Clinique Privée Hauts de France 
 
-#### challenge :
-* Réaliser un ensemble d'équipements sur mesure : fauteuil amagnétique, marche-pied, en vue d'équiper une salle IRM
-* Délai court car date de transfert de locaux programmée à l'avance. Opération réalisée dans le cadre d'une restructuration de bâtiment
-
-#### solution :
-* Coordination du chantier avec le service ingénieurie travaux du client
-* Installation des équipements par nos techniciens sans créer de gêne pour le personnel et pour les autres corps de métier présents dans les locaux
-
-##### Les responsables techniques nous sollicitent régulièrement pour trouver des solutions d'agencement qu'ils ne trouvent pas dans les catalogues ou sur les sites internet. SICADE réalise des équipements spécifiques qui répondent aux éxigences de ses clients en terme de qualité et de prix. Ces produits sont souvent uniques.
