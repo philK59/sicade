@@ -7,7 +7,24 @@ draft: false
 description : "Equipement de laboratoire"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : chariot de transport, chariot informatique, chariot roll, chariot porte cuve"
+shortDescription: "Exemple de réalisations : Chariot de transport, Chariot informatique,
+Chariot porte cuve, Armoire en inox, Bac de lavage en inox, Bac mobile en inox, Bac de trempage en inox, Banc en inox,
+Bureau avec porte et tiroir en inox, Chariot de transport en inox, Chariot de manutention en inox, Chariot de distribution en inox, Chariot de nettoyage en inox, Chariots plate-forme en inox,
+Chariot autoclave en inox, Chariot informatique en inox, Claies d'égouttage en inox,
+Coffre-fort en inox, Desserte en inox, Distributeur en inox de charlottes ou de lingettes,
+Echelles en inox pour tablettes en inox, Etabli roulant en inox, Étagères en inox, Evier en inox,
+Fontaine en inox, Cloisons en inox, Lave-main en inox, Meuble avec placards et tiroirs en inox,
+Meuble-plonge en inox, Paillasse de laboratoire en mélamine compacte (Trespa),
+Paillasse en inox, Paillasse avec dosseret en inox, Paillasse avec tablette en inox, 
+Panier en fil en inox pour bouteilles et flacons, Panier en inox pour cuve ultra-sons,
+Panier en inox pour autoclave, Patère en inox, Plate-forme en inox, Plonge en inox,
+Porte manteaux en inox, Porte tuyau en inox, Poubelle en inox, Pupitre en inox, Racks en inox,
+Racks d'égouttage en inox, Rayonnages réglables en inox, Rayonnages en inox pour paniers en fil,
+Rolls pour clayettes en inox, Servante en inox, Socle en inox, Support bottes en inox pour laverie,
+Support mural en inox, Support sabots de laborantins en inox, Table en inox avec évier,
+Table d'autopsie en inox, Table élévatrice en inox, Table de pesée en inox, Table de travail en inox,
+Table informatique en inox, Tablette murale rabattable en inox, Table roulante en inox,
+Tabouret en inox"
 
 #product ID
 productID: "2"
