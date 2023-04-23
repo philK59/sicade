@@ -54,8 +54,10 @@ images:
 #### solutions : 
 * Réalisation d'un prototype de chaque chariot pour validation par le client avant production en petite série.
 
-Nos équipements sont fabriqués en inox de type 316 qui offre la meilleure protection contre la corrosion.
-Ils sont soudés au TIG pour une grande solidité et réalisés suivant les Bonnes Pratiques de Fabrication..
+Tous nos matériels sont réalisés en inox 304L (316L sur demande). Finition par brossage des tubes et soudures passivées, tôle aspect brut ou brossé (brossé grain 220 sur demande).
+Soudures au TIG pour une grande solidité, et réalisation suivant les Bonnes Pratiques de Fabrication.
+
+Les panneaux peuvent être réalisés en ABS ou en Polyéthylène, Plexiglas ou Makrolon. Tous ces produits sont des réalisations correspondants à des demandes spécifiques.
 
 Nous disposons d'un grand choix de chariots standards que nous pouvons modifier pour suivre vos specifications.
 
