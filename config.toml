@@ -100,8 +100,11 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/profile-picture.jpg"
+
 # Google Analitycs
-googleAnalitycsID = "UA-80327718-1" # Your ID
+googleAnalitycsID = "G-8XRJS507KJ" # Your ID
+
+
 # Contact Information
 mobile = "0613439523"
 email = "contact@sicade.com"
