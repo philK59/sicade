@@ -102,7 +102,7 @@ mapLongitude = "-0.1622023"
 mapMarker = "images/profile-picture.jpg"
 
 # Google Analitycs
-googleAnalitycsID = "292489782" # Your ID
+googleAnalitycs = "292489782" # Your ID
 
 
 # Contact Information
