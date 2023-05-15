@@ -4,7 +4,7 @@ date: 2023-05-06T16:00:35+02:00
 draft: false
 
 # meta description
-description : "Mobilier et agencement pour établissements hospitaliers"
+description : "Logistique Hospitalière"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : rayonnages et tables en inox"

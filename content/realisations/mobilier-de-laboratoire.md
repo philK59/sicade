@@ -1,10 +1,10 @@
 ---
-title: "Conception et Fabrication d'équipements de laboratoire"
+title: "Mobilier de laboratoire"
 date: 2021-12-18T12:08:59+02:00
 draft: false
 
 # meta description
-description : "Equipement de laboratoire"
+description : "Mobilier de laboratoire"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : Chariot de transport, Chariot informatique,
