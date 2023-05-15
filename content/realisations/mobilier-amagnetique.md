@@ -1,5 +1,5 @@
 ---
-title: "Agencement salle IRM, mobilier modulaire sur mesure"
+title: "Mobilier Amagnétique"
 date: 2021-12-18T09:31:07+02:00
 draft: false
 
