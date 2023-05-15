@@ -1,5 +1,5 @@
 ---
-title: "Rampes d'accès PMR"
+title: "Rampes PMR"
 date: 2021-12-17T17:10:31+02:00
 draft: false
 
