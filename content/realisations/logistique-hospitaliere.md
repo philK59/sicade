@@ -4,7 +4,7 @@ date: 2023-05-06T16:00:35+02:00
 draft: false
 
 # meta description
-description : "Logistique Hospitalière"
+description : "Agencement et aménagement en milieu médical | Fourniture de rayonnages et tables de prépâration"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : rayonnages et tables en inox"
