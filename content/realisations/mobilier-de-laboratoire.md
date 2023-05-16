@@ -4,7 +4,7 @@ date: 2021-12-18T12:08:59+02:00
 draft: false
 
 # meta description
-description : "Mobilier de laboratoire"
+description : "Agencement de salles blanches et laboratoires | Réalisation de mobilier en inox"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : Chariot de transport, Chariot informatique,

@@ -4,7 +4,7 @@ date: 2021-12-18T10:17:34+01:00
 draft: false
 
 # meta description
-description: "Mobilier Retail"
+description: "Fabrication de mobilier retail, linéaire, présentoirs"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"

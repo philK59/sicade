@@ -4,7 +4,7 @@ date: 2021-12-17T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Sécurisation de sites"
+description : "Sécurisation de sites industriels et hospitaliers"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : cloison grillagée, grille anti-effraction, cloison grillagée, abri fumeurs, auvent, plateforme caillebotis, protection"

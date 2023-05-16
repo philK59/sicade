@@ -4,7 +4,7 @@ date: 2021-12-17T17:10:31+02:00
 draft: false
 
 # meta description
-description : "Rampes d'accès PMR"
+description : "Fabrication de rampes d'accès PMR pour les Etablissements Recevant du Public"
 
 # Product Short Description
 shortDescription: "Exemple de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, mobilier urbain" 
