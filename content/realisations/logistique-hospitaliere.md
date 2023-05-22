@@ -1,5 +1,5 @@
 ---
-title: "Logistique Hospitalière"
+title: "Logistique Hospitalière et Pharmacie"
 date: 2023-05-06T16:00:35+02:00
 draft: false
 
