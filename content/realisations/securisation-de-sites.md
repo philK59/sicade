@@ -7,10 +7,10 @@ draft: false
 description : "Sécurisation de sites industriels et hospitaliers"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : cloison grillagée, grille anti-effraction, cloison grillagée, abri fumeurs, auvent, plateforme caillebotis, protection"
+shortDescription: "Exemples de réalisations : cloison grillagée, grille anti-effraction, abri fumeurs, auvent, plateforme caillebotis, protection"
 
 #product ID
-productID: "6"
+productID: "7"
 
 # type must be "products"
 type: "realisations"

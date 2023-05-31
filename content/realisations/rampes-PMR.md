@@ -7,7 +7,7 @@ draft: false
 description : "Fabrication de rampes d'accès PMR pour les Etablissements Recevant du Public"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, mobilier urbain" 
+shortDescription: "Exemples de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, mobilier urbain" 
 
 #product ID
 productID: "4"

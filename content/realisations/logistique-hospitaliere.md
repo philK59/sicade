@@ -7,7 +7,7 @@ draft: false
 description : "Agencement et aménagement en milieu médical | Fourniture de rayonnages et tables de prépâration"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : rayonnages et tables en inox"
+shortDescription: "Exemples de réalisations : rayonnages et tables en inox"
 
 #product ID
 productID: "5"

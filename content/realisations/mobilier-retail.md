@@ -7,7 +7,7 @@ draft: false
 description: "Fabrication de mobilier retail, linéaire, présentoirs"
 
 # Product Short Description
-shortDescription: "Exemple de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"
+shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, testeur stocker, gondole, meuble de caisse, meuble linéaire"
 
 #product ID
 productID: "3"
