@@ -1,5 +1,5 @@
 ---
-title: "Mobilier Amagnétique"
+title: "Mobilier et équipement Amagnétique compatible IRM"
 date: 2021-12-18T09:31:07+02:00
 draft: false
 
