@@ -3,9 +3,16 @@ baseURL = "https://www.sicade.com/"
 languageCode = "fr-FR"
 title = "SICADE | Métallerie | Tolerie | LiLLE | Hauts de France"
 theme = "hargo"
-summaryLength = "20"
+description = "Nous fabriquons des équipements de laboratoire en inox et divers supports métalliques pour l'industrie"
+author = "Phil K"
 paginate = 10
-disqusShortname = ""
+disqusShortname = "sicade"
+googleAnalytics = "p292489782"
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 ############################# Plugins ##############################
 [params.plugins]
@@ -92,51 +99,48 @@ disqusShortname = ""
 [params]
 logo = "images/logo.png"
 home = "Accueil"
-# Meta data
-description = "Fabrication d'équipements métalliques sur mesure Acier Inox Alu | Lille | Hauts de France | Nord | 59"
-author = "Phil K"
+
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/profile-picture.jpg"
 
-
-
 # Contact Information
 mobile = "0613439523"
 email = "contact@sicade.com"
 location = "Lille, Wavrin, France"
+
 # copyright
 copyright = "| Copyright &copy; 2023 [SARL SICADE](https://sicade.com) Tous Droits Réservés |"
+
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
 
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "" # use .png , .svg or .gif format
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
 
-  # Product Rating
-  # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
-  [params.rating]
-  enable = true
-  websiteID = "444334"
-  publicKey = "811cf0927332bf51f2e12f84608594ac"
+# Product Rating
+# it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+[params.rating]
+enable = true
+websiteID = "444334"
+publicKey = "811cf0927332bf51f2e12f84608594ac"
 
-  # Social Site
-  [[params.social]]
-  icon = "ti-linkedin"
-  link = "https://www.linkedin.com/in/philippe-cabotse-56744217b/"
+# Social Site
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/in/philippe-cabotse-56744217b/"
 
-  # Contact Form
-  [params.contact]
-  formAction = "#" # contact form works with Netlify.com
+# Contact Form
+[params.contact]
+formAction = "#" # contact form works with Netlify.com
 
-  [sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.5
-
-  
+# Site Map
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5

@@ -1,8 +1,8 @@
 ---
-title: "Mentions légales et Politique de confidentialité"
+title: "Mentions légales"
 date: 2021-12-21T16:11:47+02:00
 draft: false
-description : "mentions légales"
+description : "Mentions légales et Politique de confidentialité"
 ---
 
 ### Mentions légales
