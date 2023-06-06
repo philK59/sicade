@@ -1,10 +1,10 @@
 ---
-title: "Amenagement Entrepot Logistique"
+title: "Amenagement Industrie et Entrepot Logistique"
 date: 2023-05-31T17:58:45+02:00
 draft: false
 
 # meta description
-description : "Aménagement d'entrepôts logistiques"
+description : "Aménagement d'usines et d'entrepôts logistiques"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : cloison grillagée, sas, abri fumeurs, auvent, plateforme caillebotis, sabot de protection, garde-corps, protection upn, protection cornière, protection madrier, protection bastaing, protection grillagée, carter de protection en polycarbonate"
