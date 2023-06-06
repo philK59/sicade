@@ -7,7 +7,7 @@ description = "Nous fabriquons des équipements de laboratoire en inox et divers
 author = "Phil K"
 paginate = 10
 disqusShortname = "sicade"
-googleAnalytics = "p292489782"
+googleAnalytics = "292489782"
 
 enableEmoji = true
 enableGitInfo = true
