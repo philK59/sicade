@@ -7,7 +7,7 @@ draft: false
 description : "Agencement de salles blanches et laboratoires | Réalisation de mobilier en inox"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : Chariot de transport, Chariot informatique,
+shortDescription: "Exemples de réalisations : Passbox, Passe-plats, Sas de transfert, Chariot de transport, Chariot informatique,
 Chariot porte cuve, Armoire en inox, Bac de lavage en inox, Bac mobile en inox, Bac de trempage en inox, Banc en inox,
 Bureau avec porte et tiroir en inox, Chariot de transport en inox, Chariot de manutention en inox, Chariot de distribution en inox, Chariot de nettoyage en inox, Chariots plate-forme en inox,
 Chariot autoclave en inox, Chariot informatique en inox, Claies d'égouttage en inox,
