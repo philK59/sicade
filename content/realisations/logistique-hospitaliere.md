@@ -18,11 +18,11 @@ type: "realisations"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/produits/C.png"
-  - image: "images/produits/B.png"
-  - image: "images/produits/A.png"
-  - image: "images/produits/D.png"
-  - image: "images/produits/E.png"
+  - image: "images/produits/chariot-paniers.png"
+  - image: "images/produits/rayonnage-inox.png"
+  - image: "images/produits/table-de-travail.png"
+  - image: "images/produits/accessoires-laboratoire.png"
+  - image: "images/produits/support-paniers.png"
 ---
 
 #### service :
