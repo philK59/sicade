@@ -1,5 +1,5 @@
 ---
-title: "Rampes PMR"
+title: "Rampes d'accès PMR"
 date: 2021-12-17T17:10:31+02:00
 draft: false
 
@@ -7,7 +7,7 @@ draft: false
 description : "Fabrication de rampes d'accès PMR pour les Etablissements Recevant du Public"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante, mobilier urbain" 
+shortDescription: "Exemples de réalisations : rampe d'accès aux normes PMR (personnes à mobilité réduite), garde corps, main courante" 
 
 #product ID
 productID: "4"

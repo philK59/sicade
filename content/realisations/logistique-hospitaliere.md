@@ -1,13 +1,13 @@
 ---
-title: "Logistique Hospitalière et Pharmacie"
+title: "Logistique Hospitalière"
 date: 2023-05-06T16:00:35+02:00
 draft: false
 
 # meta description
-description : "Agencement et aménagement en milieu médical | Fourniture d'équipements de stockage et de préparation"
+description : "Agencement de pharmacie, Installation de mobilier médical"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : rayonnages et tables en inox"
+shortDescription: "Exemples de réalisations : rayonnage de pharmacie, rack inox, chariot à façon, chariot poches, chariot distributeur, chariot de pharmacie, chariot inox, table spécifique, table ergonomique, table élévatrice, poste de travail ergonomique, évier inox, paillasse, cuve inox, bac inox, barre de maintie, porte-sérum, rail mural, guéridon, panier, caisson, support sonde, armoire à pharmacie, portique, plan de travail, tablette, claustra, paravent"
 
 #product ID
 productID: "5"
@@ -17,6 +17,7 @@ type: "realisations"
 
 # product Images
 # first image will be shown in the product page
+
 images:
   - image: "images/produits/chariot-paniers.png"
   - image: "images/produits/rayonnage-inox.png"

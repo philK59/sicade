@@ -1,13 +1,13 @@
 ---
-title: "Amenagement Industrie et Entrepot Logistique"
+title: "Stockage Protections Entrepot Logistique"
 date: 2023-05-31T17:58:45+02:00
 draft: false
 
 # meta description
-description : "Aménagement d'usines et d'entrepôts logistiques"
+description : "Aménagement d'entrepôts logistiques, Installation de rayonnages et de protections"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : cloison grillagée, sas, abri fumeurs, auvent, plateforme caillebotis, sabot de protection, garde-corps, protection upn, protection cornière, protection madrier, protection bastaing, protection grillagée, carter de protection en polycarbonate"
+shortDescription: "Exemples de réalisations : rayonnage, rack à palettes, cloison grillagée, sas, abri fumeurs, auvent, plateforme caillebotis, escalier, passerelle, abri, sabot de protection, garde-corps, rambarde, protection upn, protection cornière, protection madrier, protection bastaing, borne, protection grillagée, carter de protection en polycarbonate, chariot de manutention, support écran, convoyeur, gabarit, poste de travail ergonomique, conteneur, cuve, bac"
 
 # product ID
 productID: "8"

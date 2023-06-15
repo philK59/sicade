@@ -4,7 +4,7 @@ date: 2021-12-17T17:48:11+02:00
 draft: false
 
 # meta description
-description : "Réparation et remise en état de tout type d'ouvrage métallique | Interventions sur site"
+description : "Réparation et remise en état de tout type d'ouvrage métallique"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : portail, grille, escalier, porte, garde-corps, barrière, décoration, garde corps, main courante, portillon, porte"

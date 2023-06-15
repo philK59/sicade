@@ -1,13 +1,13 @@
 ---
-title: "Sécurisation de Sites"
+title: "Sécurisation d'accès de sites"
 date: 2021-12-17T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Sécurisation de sites industriels et hospitaliers et logistiques"
+description : "Installation de Protections pour la Sécurisation des accès sur sites industriels, Hopitaux"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : cloison grillagée, grille anti-effraction, abri fumeurs, auvent, plateforme caillebotis, protection"
+shortDescription: "Exemples de réalisations : cloison grillagée, grille anti-effraction, abri personnel de maintenance, plateforme, auvent, plateforme caillebotis, protection, borne, barrière, portillon, sas, passerelle, garde corps, "
 
 #product ID
 productID: "7"

@@ -3,14 +3,11 @@ baseURL = "https://www.sicade.com/"
 languageCode = "fr-FR"
 title = "SICADE | Métallerie | Tolerie | LiLLE | Hauts de France"
 theme = "hargo"
-description = "Nous fabriquons des équipements de laboratoire en inox et divers supports métalliques pour l'industrie"
+description = "Nous fabriquons des équipements inox pour laboratoires, salles blanches, hopitaux et divers supports métalliques sur mesure pour l'industrie"
 author = "Phil K"
 paginate = 10
 disqusShortname = "sicade"
 googleAnalytics = "292489782"
-
-enableEmoji = true
-enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
 
@@ -65,7 +62,7 @@ canonifyURLs = true
   weight = 5
 
   ############# footer menu #############
-  [[menu.footer]]
+  [[menu.footer]]  
   name = "Réalisations"
   URL = "realisations"
   weight = 1
