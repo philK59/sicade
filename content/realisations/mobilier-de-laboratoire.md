@@ -7,7 +7,7 @@ draft: false
 description : "Agencement de salles blanches, Laboratoires"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : Passbox, Passe-plats, Sas de transfert, Chariot porte cuve, Armoire en inox, Bac de lavage en inox, Bac mobile en inox, Bac de trempage, Banc, Chariot de manutention, Chariot de distribution de poches, Chariot de nettoyage, Chariot autoclave, Chariot informatique, Claies d'égouttage, Coffre-fort en inox, Desserte, Distributeur de charlottes, Echelles en inox, tablettes en inox, Étagères, Evier, Cloisons, Séparateur, Lave-main, Plonge, Paillasse, Panier, autoclave, Patère, Plate-forme, Porte tuyau, Poubelle, Pupitre, Rack d'égouttage, Rayonnage, Rolls pour clayettes, Servante, Socle, Support bottes, Laverie, Support mural, Rail, Table, Evier, Table d'autopsie, Table élévatrice, Table de pesée, Tablette murale rabattable, Tabouret, Butoirs, Caillebotis, Estrade, Passerelle, Plinthe en inox, Protection murale en inox, Puisard, Unité de lavage en inox, Vestiaires d'habillage"
+shortDescription: "Exemples de réalisations : Passbox, Passe-plats, Sas de transfert, Chariot porte cuve, Armoire en inox, Bac de lavage en inox, Bac mobile en inox, Bac de trempage, Banc, Chariot de manutention, Chariot de distribution de poches, Chariot de nettoyage, Chariot autoclave, Chariot informatique, Claies d'égouttage, Coffre-fort en inox, Desserte, Distributeur de charlottes, Echelles en inox, tablettes en inox, Étagères, Evier, Cloisons, Séparateur, Lave-main, Plonge, Paillasse, Panier, autoclave, Patère, Plate-forme, Porte tuyau, Poubelle, Pupitre, Rack d'égouttage, Rayonnage, Rolls pour clayettes, Servante, Socle, Support bottes, Laverie, Support mural, Rail, Table, Evier, Table d'autopsie, Table élévatrice, Table de pesée, Tablette murale rabattable, Tabouret, Butoirs, Caillebotis, Estrade, Passerelle, Marche pied, Plinthe, Protection murale en inox, Puisard, Vestiaires d'habillage"
 
 #product ID
 productID: "2"
@@ -56,3 +56,8 @@ De nombreux accessoires peuvent être ajoutés aux chariots comme un tiroir, un 
 
 |![Example image](/images/produits/gerbeur.png)|Nous réalisons des équipements de manutention ergonomiques pour les industries pharmaceutiques et biotech. Préservez le capital santé de vos salariés ! Contactez-nous pour profiter de l'ensemble de nos AIDES TECHNIQUES ! Exemple de solutions : gerbeur pour bobines, plan de travail réglable en hauteur, table élévatrice en inox. | 
 |---|---|
+
+##### NOS CONTRATS DE MAINTENANCE :
+
+Nous vous proposons un service complet pour maintenir et/ou réparer n'importe quel équipement de laboratoire en acier inoxydable; Et plus particulièrement, les sas de transfert qui demandent une attention particulère.
+En offrant ce service, nous espérons augmenter significativement la durée de vie de vos équipements, et vous permettre de réaliser des économies, en évitant de les remplacer. Un équipement fiable évite également les perturbations des services liées aux travaux de maintenance. Nous pouvons vous assurer que l'équipement est conforme aux normes en vigueur, et qu'il fonctionne comme lors de sa mise en service, peu importe l'origine du fabriquant.
