@@ -59,5 +59,5 @@ De nombreux accessoires peuvent être ajoutés aux chariots comme un tiroir, un 
 
 ##### NOS CONTRATS DE MAINTENANCE :
 
-Nous vous proposons un service complet pour maintenir et/ou réparer n'importe quel équipement de laboratoire en acier inoxydable; Et plus particulièrement, les sas de transfert qui demandent une attention particulère.
+Nous vous proposons un service complet pour maintenir et/ou réparer n'importe quel équipement de laboratoire en acier inoxydable; Et plus particulièrement, les sas de transfert (enceinte à l’atmosphère contrôlée par laquelle transitent tous les matériels, objets ou personnes qui entrent ou sortent de la salle blanche), qui demandent une attention particulère.
 En offrant ce service, nous espérons augmenter significativement la durée de vie de vos équipements, et vous permettre de réaliser des économies, en évitant de les remplacer. Un équipement fiable évite également les perturbations des services liées aux travaux de maintenance. Nous pouvons vous assurer que l'équipement est conforme aux normes en vigueur, et qu'il fonctionne comme lors de sa mise en service, peu importe l'origine du fabriquant.
