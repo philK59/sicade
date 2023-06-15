@@ -7,7 +7,7 @@ draft: false
 description : "Aménagement d'entrepôts logistiques, Installation de rayonnages et de protections"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : rayonnage, rack à palettes, cloison grillagée, sas, abri fumeurs, auvent, plateforme caillebotis, escalier, passerelle, abri, sabot de protection, garde-corps, rambarde, protection upn, protection cornière, protection madrier, protection bastaing, borne, protection grillagée, carter de protection en polycarbonate, chariot de manutention, support écran, convoyeur, gabarit, poste de travail ergonomique, conteneur, cuve, bac"
+shortDescription: "Exemples de réalisations : rayonnage, rack à palettes, cloison grillagée, sas, auvent, plateforme caillebotis, escalier, passerelle, portique, abri fumeurs, abri vélos, sabot de protection, garde-corps, rambarde, protection upn, protection cornière, protection madrier, protection bastaing, borne, protection grillagée, carter de protection en polycarbonate, chariot de manutention, support écran, convoyeur, gabarit, poste de travail ergonomique, table à rouleaux, table à billes, conteneur, cuve, bac, chariot de manutention"
 
 # product ID
 productID: "8"

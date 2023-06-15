@@ -4,10 +4,10 @@ date: 2021-12-17T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Installation de Protections pour la Sécurisation des accès sur sites industriels, Hopitaux"
+description : "Installation de Protections, Sécurisation des accès sur sites industriels, Hopitaux"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : cloison grillagée, grille anti-effraction, abri personnel de maintenance, plateforme, auvent, plateforme caillebotis, protection, borne, barrière, portillon, sas, passerelle, garde corps, "
+shortDescription: "Exemples de réalisations : cloison grillagée, grille anti-effraction, abri personnel de maintenance, plateforme, auvent, plateforme caillebotis, protection, borne, barrière, portillon, sas, passerelle, garde corps, protection de poste de travail, protection accès plénum"
 
 #product ID
 productID: "7"
@@ -21,7 +21,7 @@ images:
   - image: "images/produits/grillage.png"
   - image: "images/produits/cloison-grillagee.png"
   - image: "images/produits/plateforme.png"
-  - image: "images/produits/grille-fenetre.png"
+  - image: "images/produits/abri-maintenance.png"
 ---
 
 #### service :

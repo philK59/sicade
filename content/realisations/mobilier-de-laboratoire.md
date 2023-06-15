@@ -28,10 +28,10 @@ type: "realisations"
 # first image will be shown in the product page
 
 images:
-  - image: "images/produits/chariot-filtres.jpg"
-  - image: "images/produits/chariot-laveur.jpg"
-  - image: "images/produits/chariot-support-seau.jpg"
-  - image: "images/produits/chariot-console.jpg" 
+  - image: "images/produits/chariot-filtres.png"
+  - image: "images/produits/chariot-laveur.png"
+  - image: "images/produits/chariot-support-seau.png"
+  - image: "images/produits/chariot-console.png" 
 ---
 
 #### service :
