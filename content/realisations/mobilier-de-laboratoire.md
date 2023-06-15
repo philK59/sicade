@@ -16,8 +16,6 @@ Racks d'égouttage en inox, Rayonnages réglables en inox, Rayonnages en inox po
 Rolls pour clayettes en inox, Servante en inox, Socle en inox, Support bottes en inox pour laverie,
 Support mural en inox, Table en inox avec évier, Table d'autopsie en inox, Table élévatrice en inox, Table de pesée en inox, Table de travail en inox, Table informatique en inox, Tablette murale rabattable en inox, Table roulante en inox, Tabouret en inox, Aménagement de laboratoires pour l'industrie pharmaceutique, Aménagement de locaux, Ensembles pour laveries de laboratoire, Agencement de locaux, Butoirs en inox, Caillebotis en inox, Caniveaux en inox, Escalier en inox, Estrade en inox, Garde-corps en inox, Passerelle en inox, Plinthes en inox, Protection murale en inox, Puisard en inox, Rambarde en inox, Unité de lavage en inox, Vestiaires d'habillage en inox, Zone de lavage en inox, Zone de pesée en inox"
 
-
-
 #product ID
 productID: "2"
 
@@ -31,7 +29,7 @@ images:
   - image: "images/produits/chariot-filtres.png"
   - image: "images/produits/chariot-laveur.png"
   - image: "images/produits/chariot-support-seau.png"
-  - image: "images/produits/chariot-console.png" 
+  - image: "images/produits/sas-de-transfert.png" 
 ---
 
 #### service :
