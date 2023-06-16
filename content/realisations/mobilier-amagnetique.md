@@ -7,7 +7,7 @@ draft: false
 description : "Agencement de salle IRM, Installation de mobilier médical compatible IRM"
 
 # Product Short Description
-shortDescription: "Exemple d'équipements : fauteuil roulant amagnétique, fauteuil de transfert amagnétique, brancard amagnétique, chariot de soins amagnetique, mobilier amagnétique, tabouret amagnétique, porte-sérum amagnétique, marche-pied amagnétique, guéridon amagnétique, poubelle amagnétique, paravent plombé, support mural pour tabliers plombés, Isolation de salle en BA 13 plombé"
+shortDescription: "Exemple d'équipements : Fauteuil roulant amagnétique, Fauteuil de transfert amagnétique, Brancard amagnétique, Chariot de soins amagnetique, Mobilier amagnétique, Tabouret amagnétique, Porte-sérum amagnétique, Marche-pied amagnétique, Guéridon amagnétique, Poubelle amagnétique, Paravent plombé, Support mural pour tabliers plombés, Isolation de salle en BA 13 plombé"
 
 #product ID
 productID: "1"

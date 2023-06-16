@@ -7,7 +7,7 @@ draft: false
 description : "Réparation et remise en état de tout type d'ouvrage métallique"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : portail, grille, escalier, porte, garde-corps, barrière, décoration, garde corps, main courante, portillon, porte"
+shortDescription: "Exemples de réalisations : Portail, Grille, Rampe d' escalier, Porte, Garde-corps, Barrière, Décoration, Main courante, Portillon"
 
 #product ID
 productID: "6"

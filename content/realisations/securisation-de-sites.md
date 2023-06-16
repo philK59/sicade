@@ -7,7 +7,7 @@ draft: false
 description : "Installation de Protections, Sécurisation des accès sur sites industriels, Hopitaux"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : cloison grillagée, grille anti-effraction, abri personnel de maintenance, plateforme, auvent, plateforme caillebotis, protection, borne, barrière, portillon, sas, passerelle, garde corps, protection de poste de travail, protection accès plénum"
+shortDescription: "Exemples de réalisations : Cloison grillagée, Grille anti-effraction, Abri personnel de maintenance, Plateforme caillebotis, Auvent, Protection, Borne, Barrière, Rampe, Portillon, Sas, Passerelle, Garde-corps accès plénum"
 
 #product ID
 productID: "7"

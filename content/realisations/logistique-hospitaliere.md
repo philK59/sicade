@@ -7,7 +7,7 @@ draft: false
 description : "Agencement de pharmacie, Installation de mobilier médical"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : rayonnage de pharmacie, rack inox, chariot à façon, chariot poches, chariot distributeur, chariot de pharmacie, chariot inox, table spécifique, table ergonomique, table élévatrice, poste de travail ergonomique, évier inox, paillasse, cuve inox, bac inox, barre de maintie, porte-sérum, rail mural, guéridon, panier, caisson, support sonde, armoire à pharmacie, portique, plan de travail, tablette, claustra, paravent"
+shortDescription: "Exemples de réalisations : Rayonnage de pharmacie, Rack inox, Chariot à façon, Chariot distributeur de poches, Chariot distributeur, Chariot de pharmacie, Table ergonomique, Table élévatrice, Table à hauteur variable, Poste de travail ergonomique, Evier, Paillasse, Cuve inox, Bac inox, Barre de maintien, Porte-sérum, Rail mural, Guéridon, Panier, Caisson, Support sonde, Armoire à pharmacie, Portique, Plan de travail, Tablette, Claustra, Paravent, Armoire médicale, Mobilier pharmaceutique"
 
 #product ID
 productID: "5"
