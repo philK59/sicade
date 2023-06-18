@@ -37,9 +37,10 @@ images:
 * Réaliser la signalétique : panneaux indicateurs d'allée, panneaux de quai
    
 #### solutions : 
-* Réalisation de l'ensemble des équipements par notre atelier de métallerie : coordination du chantier par notre technicien
+* Réalisation des équipements par notre atelier de métallerie : coordination du chantier par notre technicien
 * Pose d'un ensemble de cloisons grillagées pour la réalisation de sas
 * Installation de cloisons grillagées coulissantes sur rails avec serrures
+* Installation de Protection des personnes, pour réduire le risque d'accident chariot/piéton, à l'aide de barrières de sécurité performantes de marque A-SAFE
 
 
 ##### La mise en oeuvre d'un projet de construction métallique implique parfois la participation d'entreprises partenaires spécialisées dans leur métier, comme des sociétés de maçonnerie, des électriciens... Nous pouvons trouver ces compétences et les manager sur le terrain pour la réalisation de travaux complémentaires à nos chantiers de métallerie, et ainsi vous offrir une prestation complète.Prestataire de service en serrurerie, métallerie, tuyauterie et soudure, nous intervenons sur un ensemble de domaines industriels : Maintenance industrielle, Modification d’installation, Bardage, Soudures spécifiques et étanches, TIG/MIG/MAG, Démontage/Montage.
