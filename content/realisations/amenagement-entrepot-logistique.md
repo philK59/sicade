@@ -1,10 +1,10 @@
 ---
-title: "Stockage Protections Entrepot Logistique"
+title: "Rayonnage Protections Espaces industriels et Entrepôts Logistiques"
 date: 2023-05-31T17:58:45+02:00
 draft: false
 
 # meta description
-description : "Aménagement d'entrepôts logistiques, Installation de rayonnages et de protections"
+description : "Aménagement espaces industriels, entrepôts logistiques, Installation de rayonnages et de protections"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : Rayonnage, Rack à palettes, Cloison grillagée, Sas, Auvent, Plateforme caillebotis, Escalier, Passerelle, Portique, Abri fumeurs, Abri vélos, Sabot de protection, Garde-corps, Rambarde, Protection upn, Protection cornière, Protection madrier, Protection bastaing, Butoir, Borne, Protection grillagée, Carter de protection en polycarbonate, Capot, Châssis, chariot de manutention, Support écran, Convoyeur, Gabarit, Poste de travail ergonomique, Table à rouleaux, Table à billes, Conteneur, Cuve, Bac, Chariot de manutention"

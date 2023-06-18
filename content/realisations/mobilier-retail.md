@@ -1,10 +1,10 @@
 ---
-title: "Présentoirs Mobilier Retail"
+title: "Aménagement de magasins Présentoirs PLV Mobilier Retail"
 date: 2021-12-18T10:17:34+01:00
 draft: false
 
 # meta description
-description: "Fabrication de Mobilier Retail, Linéaire, Présentoir"
+description: "Fabrication de Mobilier Retail, Linéaire, Présentoir, PLV"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail éco conçu, éco conception, agencement de magasin"

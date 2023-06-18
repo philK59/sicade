@@ -4,7 +4,7 @@ date: 2021-12-17T19:20:30+02:00
 draft: false
 
 # meta description
-description : "Installation de Protections, Sécurisation des accès sur sites industriels, Hopitaux"
+description : "Installation de Protections, Sécurisation des accès de sites industriels, Entrepôts, Hopitaux"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : Cloison grillagée, Grille anti-effraction, Abri personnel de maintenance, Plateforme caillebotis, Auvent, Protection, Borne, Barrière, Rampe, Portillon, Sas, Passerelle, Garde-corps accès plénum"
