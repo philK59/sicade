@@ -1,5 +1,5 @@
 ---
-title: "Rampes d'accès PMR"
+title: "Rampes d'accès PMR Garde corps"
 date: 2021-12-17T17:10:31+02:00
 draft: false
 

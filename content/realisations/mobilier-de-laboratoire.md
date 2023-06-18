@@ -1,5 +1,5 @@
 ---
-title: "Mobilier de laboratoire"
+title: "Cuves Bacs inox Mobilier de laboratoire"
 date: 2021-12-18T12:08:59+02:00
 draft: false
 

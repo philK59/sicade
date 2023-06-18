@@ -1,5 +1,5 @@
 ---
-title: "Mobilier Retail"
+title: "Présentoirs Mobilier Retail"
 date: 2021-12-18T10:17:34+01:00
 draft: false
 
