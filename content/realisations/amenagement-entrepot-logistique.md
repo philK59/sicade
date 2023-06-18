@@ -23,6 +23,7 @@ images:
   - image: "images/produits/protection-grillagee.png"
   - image: "images/produits/soudure.png"
   - image: "images/produits/protection-corniere.png"
+  - image: "images/produits/rack.png"
 ---
 
 #### service :
@@ -33,6 +34,7 @@ images:
 * Réaliser des protections sur mesure 
 * Sécuriser les accès, les chemins piétons 
 * Protéger les rayonnages 
+* Réaliser la signalétique : panneaux indicateurs d'allée, panneaux de quai
    
 #### solutions : 
 * Réalisation de l'ensemble des équipements par notre atelier de métallerie : coordination du chantier par notre technicien
