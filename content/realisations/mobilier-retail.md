@@ -1,5 +1,5 @@
 ---
-title: "Fabrication de Présentoir  PLV Signalétique Eco conçu Mobilier Retail en matériau biosourcé recyclable"
+title: "Fabrication de Présentoir  PLV Signalétique Meuble Eco conçu Mobilier Retail en matériau biosourcé recyclable"
 date: 2021-12-18T10:17:34+01:00
 draft: false
 
@@ -20,7 +20,7 @@ type: "realisations"
 images:
   - image: "images/produits/presentoir.png"
   - image: "images/produits/gondole.png"
-  
+  - image: "images/produits/meuble.png"
 ---
 
 #### service :
@@ -30,7 +30,7 @@ images:
 * Grande marque de distribution de vêtements 
 
 #### challenge :
-* Réaliser un ensemble d'équipements mobiles et éco conçu pour présenter les articles en magasin
+* Réaliser un ensemble de meubles mobiles et éco conçu pour présenter les articles en magasin
 * Voir et toucher le produit
 * Stocker et présenter au mieux les produits pour optimiser les ventes
 * Impact visuel fort
