@@ -7,7 +7,7 @@ draft: false
 description : "Aménagement espaces industriels, entrepôts logistiques, Installation de rayonnages et de protections"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : Rayonnage, Rack à palettes, Cloison grillagée, Sas, Auvent, Plateforme caillebotis, Escalier, Passerelle, Portique, Abri fumeurs, Abri vélos, Sabot de protection, Garde-corps, Rambarde, Protection upn, Protection cornière, Protection madrier, Protection bastaing, Butoir, Borne, Protection grillagée, Carter de protection en polycarbonate, Capot, Châssis, chariot de manutention, Support écran, Convoyeur, Gabarit, Poste de travail ergonomique, Table à rouleaux, Table à billes, Conteneur, Cuve, Bac, Chariot de manutention"
+shortDescription: "Exemples de réalisations : Rayonnage, Rack à palettes, Cloison grillagée, Sas, Auvent, Plateforme caillebotis, Escalier, Passerelle, Portique, Abri fumeurs, Abri vélos, Sabot de protection, Garde-corps, Rambarde, Protection upn, Protection cornière, Protection madrier, Protection bastaing, Butoir, Borne, Protection grillagée, Carter de protection en polycarbonate, Capot, Châssis, chariot de manutention, Support écran, Convoyeur, Gabarit, Poste de travail ergonomique, Table à rouleaux, Table à billes, Conteneur, Cuve, Bac, Chariot de manutention, Habillage de coffret électrique, Abri bac à déchets, Support à vélo, Grille d'arbre,"
 
 # product ID
 productID: "8"

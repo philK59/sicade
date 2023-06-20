@@ -1,5 +1,5 @@
 ---
-title: "Sécurisation d'accès de sites Cloisons Abris Garde corps "
+title: "Sécurisation d'accès de sites Cloisons Abris Garde corps Habillage de coffret électrique"
 date: 2021-12-17T19:20:30+02:00
 draft: false
 
@@ -7,7 +7,7 @@ draft: false
 description : "Installation de Protections, Sécurisation des accès de sites industriels, Entrepôts, Hopitaux"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : Cloison grillagée, Grille anti-effraction, Abri personnel de maintenance, Plateforme caillebotis, Auvent, Protection, Borne, Barrière, Rampe, Portillon, Sas, Passerelle, Garde-corps accès plénum"
+shortDescription: "Exemples de réalisations : Cloison grillagée, Grille anti-effraction, Abri personnel de maintenance, Plateforme caillebotis, Auvent, Protection, Borne, Barrière, Rampe, Portillon, Sas, Passerelle, Garde-corps accès plénum, Potelet, Portique, Portail"
 
 #product ID
 productID: "7"
