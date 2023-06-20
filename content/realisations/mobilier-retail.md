@@ -1,13 +1,13 @@
 ---
-title: "Fabrication de Présentoir  PLV éco conçu Mobilier Retail en matériau biosourcé recyclable"
+title: "Fabrication de Présentoir  PLV Signalétique Eco conçu Mobilier Retail en matériau biosourcé recyclable"
 date: 2021-12-18T10:17:34+01:00
 draft: false
 
 # meta description
-description: "Agencement retail éco responsable Présentoirs PLV Mobilier Retail, Linéaire, PLV"
+description: "Agencement retail éco responsable Présentoirs PLV Mobilier Retail, Linéaire, signalétique"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail éco conçu, éco conception, agencement de magasin"
+shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail"
 
 #product ID
 productID: "3"
@@ -24,13 +24,13 @@ images:
 ---
 
 #### service :
-* Conception, fabrication d'une série de supports de vente en tôle acier, peinture thermolaquée époxy.
+* Conception, fabrication d'une série de supports de vente en tôle acier et en fibre de lin recyclable
 
 #### client :
 * Grande marque de distribution de vêtements 
 
 #### challenge :
-* Réaliser un ensemble d'équipements mobiles pour présenter les articles en magasin
+* Réaliser un ensemble d'équipements mobiles et éco conçu pour présenter les articles en magasin
 * Voir et toucher le produit
 * Stocker et présenter au mieux les produits pour optimiser les ventes
 * Impact visuel fort
@@ -38,6 +38,7 @@ images:
   
 #### solution :
 * Design sur mesure étudié selon cahier des charges client
+* Utilisation d'un matériau en fibre de lin recyclable
 * Personnalisation de la marque et de l'enseigne
 * Stucture modulaire, évolutive, pratique, fonctionnel et accessible
 * Disposés sur plusieurs niveaux, les produits sont rapidement identifiables grâce à une organisation catégorielle pertinente
