@@ -1,10 +1,10 @@
 ---
-title: "Aménagement de magasins Présentoirs PLV Mobilier Retail"
+title: "Fabrication de Présentoir  PLV éco conçu Mobilier Retail en matériau biosourcé recyclable"
 date: 2021-12-18T10:17:34+01:00
 draft: false
 
 # meta description
-description: "Fabrication de Mobilier Retail, Linéaire, Présentoir, PLV"
+description: "Agencement retail éco responsable Présentoirs PLV Mobilier Retail, Linéaire, PLV"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail éco conçu, éco conception, agencement de magasin"
@@ -27,10 +27,10 @@ images:
 * Conception, fabrication d'une série de supports de vente en tôle acier, peinture thermolaquée époxy.
 
 #### client :
-* Grande marque de vêtement 
+* Grande marque de distribution de vêtements 
 
 #### challenge :
-* Réaliser un ensemble d'équipements mobiles pour présenter les vêtements en magasin
+* Réaliser un ensemble d'équipements mobiles pour présenter les articles en magasin
 * Voir et toucher le produit
 * Stocker et présenter au mieux les produits pour optimiser les ventes
 * Impact visuel fort
