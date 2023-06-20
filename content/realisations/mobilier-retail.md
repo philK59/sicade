@@ -7,7 +7,8 @@ draft: false
 description: "Agencement retail éco responsable Présentoirs PLV Mobilier Retail, Linéaire, signalétique"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail"
+shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail. Nous avons placé l’éco-conception au cœur du développement produit, Nos meubles sont réalisés en acier ou en fibre de lin.
+Ils sont 100% recyclable."
 
 #product ID
 productID: "3"
@@ -31,7 +32,7 @@ images:
 
 #### challenge :
 * Réaliser un ensemble de meubles mobiles et éco conçu pour présenter les articles en magasin
-* Voir et toucher le produit
+* Donner la possibilité a client de voir et toucher le produit
 * Stocker et présenter au mieux les produits pour optimiser les ventes
 * Impact visuel fort
 * Rentabiliser la surface de vente
@@ -47,4 +48,4 @@ images:
 * Mettre en avant des promotions et lancements de produits
 * Animer l'espace de vente
 
-##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin. Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous  vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services
+##### Optimisez l'impact de vos campagnes de communication et l'expèrience client de votre point de vente. Améliorez l’attractivité globale de votre magasin. Présentez de manière optimale vos produits avec nos solutions de mobilier commercial. Nous vous accompagnons pour développer le présentoir le plus efficace pour promouvoir vos produits et services. Notre but est d'offrir une alternative écologique aux professionnels désireux de réduire leur impact sur l'environnement, ou de persévérer dans les démarches éco-responsables qu'ils ont déjà engagées. Nos meubles sont réalisés en acier et en fibre de lin 100% recyclable.
