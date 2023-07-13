@@ -7,8 +7,7 @@ draft: false
 description: "Agencement retail éco responsable Présentoirs PLV Mobilier Retail, Linéaire, signalétique"
 
 # Product Short Description
-shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail. Nous avons placé l’éco-conception au cœur du développement produit, Nos meubles sont réalisés en acier ou en fibre de lin.
-Ils sont 100% recyclable."
+shortDescription: "Exemples de réalisations : présentoir, pupitre, socle, borne, PLV, mobilier retail, gondole, meuble de caisse, meuble linéaire, mobilier retail. Nous avons placé l’éco-conception au cœur du développement produit, meubles réalisés en acier ou en fibre de lin, 100% recyclables."
 
 #product ID
 productID: "3"
