@@ -4,7 +4,7 @@ date: 2021-12-17T17:48:11+02:00
 draft: false
 
 # meta description
-description : "Réparation et remise en état de tout type d'ouvrage métallique"
+description : "Réparation et remise en état de ferronerie de bâtiment"
 
 # Product Short Description
 shortDescription: "Exemples de réalisations : Portail, Grille, Rampe d' escalier, Porte, Garde-corps, Barrière, Décoration, Main courante, Portillon"
