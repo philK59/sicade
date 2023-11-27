@@ -1,6 +1,6 @@
 ############################ banner ##########################
 banner:
-  enable : true
+  enable : false
   title : "SICADE : Nous Fabriquons et Réparons pour vous !"
   content : "... dans le cadre de la mise en oeuvre des chantiers de travaux et d’aménagement de vos bâtiments,
   des opérations de maintenance préventives et correctives, et pour l’amélioration continue de vos process"
