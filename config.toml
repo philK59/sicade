@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.sicade.com/"
+baseURL = "https://www.amagnetique.fr/"
 languageCode = "fr-FR"
 title = "SICADE | Métallerie | Tolerie | Serrurerie | Chaudronnerie | LiLLE | Hauts de France"
 theme = "hargo"
