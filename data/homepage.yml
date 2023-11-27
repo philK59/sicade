@@ -7,14 +7,14 @@ banner:
   image : "images/soudeur.jpg" 
   # button
   button:
-    enable : true
+    enable : false
     label : "Toutes les réalisations"
     link : "realisations"
   
 
 ########################## About ##############################
 about:
-  enable : true
+  enable : false
   title : "Un atelier de métallerie à votre disposition"
   content : "Un seul interlocuteur pour l'ensemble des opérations nécessaires à la fabrication d'un produit : Découpe laser, Cisaillage, Poinçonnage, Pliage, Roulage, Cintrage, Soudure, Traitement de surface"
   image : "images/assistance.png"
@@ -22,7 +22,7 @@ about:
 
 ###################### Call to action ########################
 cta:
-  enable : true
+  enable : false
   title : "Contactez-nous, développez vos idées de réalisations"
   content : "Pofitez de notre expérience en matière de Fabrications Métalliques Spécifiques"
   image : "images/cta.png"
@@ -34,7 +34,7 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : true
+  enable : false
   title : "Conception Fabrication Montage"
   subtitle : "Un Service Global"
   materialItem:
@@ -62,7 +62,7 @@ material:
 ########################### Advantage #########################
 
 advantage:
-  enable : true
+  enable : false
   title : "Nos Valeurs"
   subtitle : "La réalisation d'un service de qualité exige un certain nombre de valeurs"
   image : "images/expert.png"
@@ -77,7 +77,7 @@ advantage:
     
 ########################## Testimonial ########################
 testimonial:
-  enable : true
+  enable : false
   title : "Ce que nos clients disent de nous"
   testimonialItem:
     # testimonial item loop
